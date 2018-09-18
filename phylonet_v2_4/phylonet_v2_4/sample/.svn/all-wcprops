@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample
+END
+rf-experimental.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bioinfo_svnroot/!svn/ver/158/trunk/PhyloNet/sample/rf-experimental.txt
+END
+riatahgt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bioinfo_svnroot/!svn/ver/203/trunk/PhyloNet/sample/riatahgt.txt
+END
+taxon-map.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/taxon-map.txt
+END
+mast.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bioinfo_svnroot/!svn/ver/156/trunk/PhyloNet/sample/mast.txt
+END
+rf-model.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bioinfo_svnroot/!svn/ver/158/trunk/PhyloNet/sample/rf-model.txt
+END
+recomp1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bioinfo_svnroot/!svn/ver/162/trunk/PhyloNet/sample/recomp1.txt
+END
+countcoal1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bioinfo_svnroot/!svn/ver/162/trunk/PhyloNet/sample/countcoal1.txt
+END
+infer_st_mdc_time.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/infer_st_mdc_time.txt
+END
+gtfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/gtfile.txt
+END
+cmpnets-tree-net1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bioinfo_svnroot/!svn/ver/156/trunk/PhyloNet/sample/cmpnets-tree-net1.txt
+END
+infer_st_mdc2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/infer_st_mdc2.txt
+END
+cmpnets-net1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bioinfo_svnroot/!svn/ver/156/trunk/PhyloNet/sample/cmpnets-net1.txt
+END
+cmpnets-net2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bioinfo_svnroot/!svn/ver/156/trunk/PhyloNet/sample/cmpnets-net2.txt
+END
+infer_st_glass_tree.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/infer_st_glass_tree.txt
+END
+netpars-net1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bioinfo_svnroot/!svn/ver/193/trunk/PhyloNet/sample/netpars-net1.txt
+END
+netpars-net2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bioinfo_svnroot/!svn/ver/193/trunk/PhyloNet/sample/netpars-net2.txt
+END
+lca-node.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bioinfo_svnroot/!svn/ver/158/trunk/PhyloNet/sample/lca-node.txt
+END
+netpars-sequence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bioinfo_svnroot/!svn/ver/253/trunk/PhyloNet/sample/netpars-sequence.txt
+END
+charnet.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bioinfo_svnroot/!svn/ver/156/trunk/PhyloNet/sample/charnet.txt
+END
+infer_st_glass_matrix.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/infer_st_glass_matrix.txt
+END
+stfile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/stfile.txt
+END
+infer_st_mc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/infer_st_mc.txt
+END
+lca-tree.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bioinfo_svnroot/!svn/ver/158/trunk/PhyloNet/sample/lca-tree.txt
+END
+infer_st_mdc.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bioinfo_svnroot/!svn/ver/342/trunk/PhyloNet/sample/infer_st_mdc.txt
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bioinfo_svnroot/!svn/ver/328/trunk/PhyloNet/sample/README.TXT
+END
+cmpnets-cluster-net1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bioinfo_svnroot/!svn/ver/156/trunk/PhyloNet/sample/cmpnets-cluster-net1.txt
+END
