@@ -1,0 +1,14 @@
+Astree tree: SP14_stripped_edge_support (species tree inferred by Astral through maximizing quartet consistency. I generated neighbors of this species tree. chosen from noscale.200g.500b model condition)  
+
+java -jar /home/puti/Desktop/Desktop/phylonet_v2_4/phylonet_v2_4/phylonet_v2_4.jar deep_coal_count neighbor{1..n} gene_tree_file
+
+for example,
+
+java -jar /home/puti/Desktop/Desktop/phylonet_v2_4/phylonet_v2_4/phylonet_v2_4.jar deep_coal_count n1 SP14_stripped_edge_support
+
+actual command:
+
+calculating EL score for neighbors Astral:
+
+for i in {1..4760};do java -jar /home/puti/Desktop/Desktop/phylonet_v2_4/phylonet_v2_4/phylonet_v2_4.jar deep_coal_count n$((i)) SP14_stripped_edge_support>EL$((i)); done
+

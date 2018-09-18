@@ -1,0 +1,91 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+1 trees read from SP14_stripped_edge_support
+Scoring n784
+Scoring: 1 trees
+Number of taxa: 37 (37 species)
+Taxa: [GAL, ORN, MAC, MON, CHO, DAS, ECH, LOX, PRO, TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT, OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, SOR, ERI, MYO, PTE, FEL, CAN, VIC, SUS, TUR, BOS, EQU]
+Taxon occupancy: {PTE=1, NEW=1, RAT=1, TAR=1, SPE=1, ORN=1, CHO=1, OTO=1, PRO=1, ORY=1, MYO=1, MIC=1, HOM=1, BOS=1, EQU=1, DIP=1, MUS=1, ECH=1, GOR=1, FEL=1, MON=1, MAC=1, TUP=1, PON=1, CAL=1, SUS=1, TUR=1, CAN=1, VIC=1, GAL=1, LOX=1, OCH=1, DAS=1, SOR=1, CAV=1, PAN=1, ERI=1}
+Number of gene trees: 1
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 66045
+Polytree building time: 0.009 seconds.
+Number of quartet trees in the gene trees: 66045
+Final quartet score is: 61569
+Final normalized quartet score is: 0.9322280263456734
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{FEL, CAN}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{MYO, PTE}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{SOR, ERI}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{ORY, OCH}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{MUS, RAT}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{DIP, MUS, RAT}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{CAV, DIP, MUS, RAT}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{SPE, CAV, DIP, MUS, RAT}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{ORY, OCH, SPE, CAV, DIP, MUS, RAT}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{OTO, MIC}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{PAN, HOM}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GOR, PAN, HOM}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{PON, GOR, PAN, HOM}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{PON, GOR, PAN, HOM, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{NEW, PON, GOR, PAN, HOM, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{CAL, NEW, PON, GOR, PAN, HOM, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{TAR, CAL, NEW, PON, GOR, PAN, HOM, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT, OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{CHO, DAS}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{LOX, PRO}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{ECH, LOX, PRO}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{CHO, DAS, ECH, LOX, PRO}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{MAC, MON}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN, MAC, MON}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN, MAC, MON, CHO, DAS, ECH, LOX, PRO}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN, MAC, MON, CHO, DAS, ECH, LOX, PRO, TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT, OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN, MAC, MON, CHO, DAS, ECH, LOX, PRO, TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT, OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, SOR, ERI, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN, MAC, MON, CHO, DAS, ECH, LOX, PRO, TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT, OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, SOR, ERI, MYO, PTE, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN, MAC, MON, CHO, DAS, ECH, LOX, PRO, TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT, OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, SOR, ERI, MYO, PTE, FEL, CAN, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN, MAC, MON, CHO, DAS, ECH, LOX, PRO, TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT, OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, SOR, ERI, MYO, PTE, FEL, CAN, VIC, EQU}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 1:
+	{GAL, ORN, MAC, MON, CHO, DAS, ECH, LOX, PRO, TUP, ORY, OCH, SPE, CAV, DIP, MUS, RAT, OTO, MIC, TAR, CAL, NEW, PON, GOR, PAN, HOM, SOR, ERI, MYO, PTE, FEL, CAN, VIC, SUS, EQU}
+((((((CAN,FEL)0.67:0.2876820724517809,((MYO,PTE)0.67:0.2876820724517809,((ERI,SOR)0.67:0.2876820724517809,(((((OCH,ORY)0.67:0.2876820724517809,((((MUS,RAT)0.67:0.2876820724517809,DIP)0.67:0.2876820724517809,CAV)0.67:0.2876820724517809,SPE)0.67:0.2876820724517809)0.67:0.2876820724517809,TUP)0.67:0.2876820724517809,((MIC,OTO)0.67:0.2876820724517809,(((((((HOM,PAN)0.67:0.2876820724517809,GOR)0.67:0.2876820724517809,PON)0.67:0.2876820724517809,EQU)0.17:0.0,NEW)0.55:0.1053605156578264,CAL)0.57:0.13353139262452274,TAR)0.59:0.15415067982725836)0.6:0.16989903679539747)0.61:0.192371892647456,(((CHO,DAS)0.67:0.2876820724517809,((LOX,PRO)0.67:0.2876820724517809,ECH)0.67:0.2876820724517809)0.67:0.2876820724517809,((MAC,MON)0.67:0.2876820724517809,(GAL,ORN)0.67:0.2876820724517809)0.67:0.2876820724517809)0.67:0.2876820724517809)0.64:0.23361485118150507)0.65:0.25131442828090594)0.67:0.2876820724517809)0.67:0.2876820724517809,VIC)0.67:0.2876820724517809,SUS)0.67:0.2876820724517809,TUR),BOS);
+Weight calculation took 0.005079892 secs
+ASTRAL finished in 0.139 secs
