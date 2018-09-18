@@ -1,0 +1,20 @@
+1. Choose a dataset for which the Quartet Score for Astral and Phylonet is equal or almost equal, though FN rate of Phylonet is much worse than Astral. i.e. Estimated strong ILS (11-taxon)
+
+2. Choose a model condition, i.e. 50 genes
+
+3. Take 1 tree from each criterion i.e. 
+1 from Phylonet
+1 from Astral
+1 from Astral exact
+1 true tree
+
+4. generate all possible neighbour trees of these 4 trees applying SPR (i.e. 440 for each, then total 4*440 trees)
+
+5. Calculate EL, QS, FN for all these trees (like did before)
+
+6. Plot them in graphs (like before), i.e. 
+
+7. Plot FN vs. QS graph, where some points should be found where quartet scores are same (Phylonet and Astral) but FN rates are are different. that is , for same value in X axis, there should be much distant values in Y axis for some points. [ This is the main target]
+
+
+ 
