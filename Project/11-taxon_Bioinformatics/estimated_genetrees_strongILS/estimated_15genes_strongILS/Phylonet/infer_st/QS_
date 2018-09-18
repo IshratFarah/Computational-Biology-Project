@@ -1,0 +1,780 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep1_15genes
+Scoring Res1_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11, 8, 6, 5, 9, 10, 7, 4, 3, 2, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.02 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4202
+Final normalized quartet score is: 0.8488888888888889
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 9, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 6, 5, 9, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 6, 5, 9, 10, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 8, 6, 5, 9, 10, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 8, 6, 5, 9, 10, 7, 4}
+(1,((3,2)0.38:0.027724548014854862,(4,(11,(10,((6,5)0.98:0.5212969236332861,(9,(8,7)1:1.7385149547092427)0.33:0.0)1:0.9007865453381897)1:1.6739764335716716)1:2.367123614131617)0.94:0.42121346507630353));
+Weight calculation took 5.01741E-4 secs
+ASTRAL finished in 0.14 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep10_15genes
+Scoring Res10_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [3, 2, 4, 11, 9, 7, 8, 5, 6, 10, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.016 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4080
+Final normalized quartet score is: 0.8242424242424242
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 7, 8, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 7, 8, 5, 6, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 9, 7, 8, 5, 6, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 11, 9, 7, 8, 5, 6, 10}
+(1,((3,2)0.23:0.0,(4,(11,(10,((5,6)1:0.8507761247635285,(9,(7,8)1:1.2685113254635072)0.57:0.10709813555636723)0.7:0.192371892647456)1:1.6739764335716716)1:1.760987810561301)0.98:0.5753641449035618));
+Weight calculation took 4.7788E-4 secs
+ASTRAL finished in 0.18 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep11_15genes
+Scoring Res11_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [4, 2, 11, 8, 10, 7, 9, 6, 5, 3, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.028 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 3989
+Final normalized quartet score is: 0.8058585858585858
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7, 9, 6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 10, 7, 9, 6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 8, 10, 7, 9, 6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 11, 8, 10, 7, 9, 6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 11, 8, 10, 7, 9, 6, 5, 3}
+(1,(2,(3,(4,(11,(10,((8,7)0.99:0.5753641449035618,(9,(6,5)0.99:0.6853650401178903)0.58:0.12022742699815993)0.89:0.33897536683933127)1:1.7793369492294975)1:1.6739764335716716)0.86:0.30570057795445915)0.54:0.08985632912186105));
+Weight calculation took 5.23161E-4 secs
+ASTRAL finished in 0.155 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep12_15genes
+Scoring Res12_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11, 10, 9, 8, 7, 5, 6, 4, 2, 3, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.007 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4148
+Final normalized quartet score is: 0.8379797979797979
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 9, 8, 7, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 9, 8, 7, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 9, 8, 7, 5, 6, 4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 9, 8, 7, 5, 6, 4, 3}
+(1,(2,(3,(4,(11,((10,9)0.65:0.16989903679539747,((8,7)0.77:0.22705745063534608,(5,6)1:0.998847758514405)0.86:0.3194307707663612)1:2.367123614131617)1:2.367123614131617)1:0.8630462173553428)0.69:0.16989903679539747));
+Weight calculation took 4.89752E-4 secs
+ASTRAL finished in 0.147 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep13_15genes
+Scoring Res13_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11, 10, 6, 5, 8, 7, 9, 4, 3, 2, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.021 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4062
+Final normalized quartet score is: 0.8206060606060606
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 6, 5, 8, 7, 9, 4}
+(1,((3,2)0.28:0.0,(4,(11,((10,9)0.08:0.0,((6,5)1:1.8281271133989303,(8,7)1:0.9808292530117262)0.77:0.22705745063534608)1:2.367123614131617)1:2.367123614131617)0.8:0.2876820724517809));
+Weight calculation took 0.001744028 secs
+ASTRAL finished in 0.198 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep14_15genes
+Scoring Res14_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [3, 4, 2, 11, 8, 9, 6, 7, 5, 10, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.007 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4101
+Final normalized quartet score is: 0.8284848484848485
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 6, 7, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 9, 6, 7, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 9, 6, 7, 5, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 8, 9, 6, 7, 5, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 11, 8, 9, 6, 7, 5, 10}
+(1,((3,2)0.33:0.0,(4,(11,(10,(9,((8,7)1:0.7866732385707687,(6,5)1:0.7295148247308203)0.73:0.1980699137620938)0.9:0.3522205935893521)1:1.6739764335716716)1:2.367123614131617)0.84:0.2876820724517809));
+Weight calculation took 5.7999E-4 secs
+ASTRAL finished in 0.135 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep15_15genes
+Scoring Res15_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [2, 4, 10, 5, 9, 6, 8, 7, 11, 3, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.014 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4009
+Final normalized quartet score is: 0.8098989898989899
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2, 4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 9, 6, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 9, 6, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 9, 6, 8, 7, 11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 9, 6, 8, 7, 11, 3}
+(1,((2,4)0.85:0.2876820724517809,(3,(11,(10,((5,6)0.99:0.5846665375658753,(9,(8,7)1:0.7576857016975165)0.26:0.0)0.96:0.47000362924573535)1:2.367123614131617)1:1.3862943611198908)0.47:0.05035388614561479));
+Weight calculation took 0.001008568 secs
+ASTRAL finished in 0.181 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep16_15genes
+Scoring Res16_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [2, 3, 8, 9, 5, 6, 10, 7, 11, 4, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.007 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4127
+Final normalized quartet score is: 0.8337373737373738
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2, 3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 9, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 9, 5, 6, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 9, 5, 6, 10, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 9, 5, 6, 10, 7, 11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 9, 5, 6, 10, 7, 11, 4}
+(1,((2,3)0.23:0.0,(4,(11,(10,((5,6)1:0.8386547642311837,(9,(8,7)0.99:0.6623755218931916)0.38:0.011787955752042127)0.99:0.6623755218931916)1:2.367123614131617)1:2.367123614131617)0.97:0.4953214372300254));
+Weight calculation took 5.21355E-4 secs
+ASTRAL finished in 0.137 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep17_15genes
+Scoring Res17_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [4, 3, 7, 5, 10, 9, 8, 6, 11, 2, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.023 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 3922
+Final normalized quartet score is: 0.7923232323232323
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 9, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 5, 9, 8, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 5, 10, 9, 8, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 5, 10, 9, 8, 6, 11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 7, 5, 10, 9, 8, 6, 11}
+(1,((3,2)0.35:0.0,(4,(11,(10,((5,6)0.91:0.3596555720768701,(9,(7,8)1:0.7576857016975165)0.24:0.0)1:0.7444404749474959)1:1.4916548767777167)1:1.2685113254635072)0.53:0.08620001791875066));
+Weight calculation took 6.0267E-4 secs
+ASTRAL finished in 0.198 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep18_15genes
+Scoring Res18_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [2, 11, 10, 5, 6, 9, 7, 8, 3, 4, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.009 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 3898
+Final normalized quartet score is: 0.7874747474747474
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 6, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 5, 6, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 5, 6, 9, 7, 8, 4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2, 11, 10, 5, 6, 9, 7, 8, 4}
+(1,(3,(2,(4,(11,((10,(5,6)0.94:0.40351388797690263)0.25:0.0,(9,(7,8)1:1.1884686177899708)0.56:0.1158318155251217)1:2.367123614131617)1:1.6739764335716716)0.92:0.37145195551723964)0.52:0.07711730334443129));
+Weight calculation took 8.73922E-4 secs
+ASTRAL finished in 0.165 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep19_15genes
+Scoring Res19_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [2, 3, 4, 11, 6, 5, 10, 9, 7, 8, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.016 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 3993
+Final normalized quartet score is: 0.8066666666666666
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5, 10, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 6, 5, 10, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 11, 6, 5, 10, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 4, 11, 6, 5, 10, 9, 7, 8}
+(1,(2,(3,(4,(11,((10,9)0.55:0.1158318155251217,((6,5)0.99:0.6623755218931916,(7,8)0.51:0.07170701061618387)0.84:0.2876820724517809)1:2.367123614131617)1:1.6739764335716716)0.87:0.30570057795445915)0.93:0.40351388797690263));
+Weight calculation took 5.35019E-4 secs
+ASTRAL finished in 0.096 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep2_15genes
+Scoring Res2_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11, 10, 6, 5, 8, 7, 9, 4, 3, 2, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.015 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 3892
+Final normalized quartet score is: 0.7862626262626262
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 6, 5, 8, 7, 9, 4}
+(1,((3,2)0.18:0.0,(4,(11,(10,((6,5)0.75:0.23361485118150535,(9,(8,7)1:1.227689330943252)0.21:0.0)0.97:0.48005396509923715)1:1.9288686832004611)1:1.8562979903656265)0.92:0.37145195551723964));
+Weight calculation took 5.99673E-4 secs
+ASTRAL finished in 0.165 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep20_15genes
+Scoring Res20_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [2, 11, 10, 5, 6, 9, 7, 8, 3, 4, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.007 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 3912
+Final normalized quartet score is: 0.7903030303030303
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 6, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 5, 6, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2, 11, 10, 5, 6, 9, 7, 8}
+(1,((3,4)0.85:0.3034304294199201,(2,(11,((10,(5,6)0.97:0.4953214372300254)0.09:0.0,(9,(7,8)1:1.4020427180880297)0.8:0.28352406230311716)1:1.6739764335716716)1:1.6739764335716716)0.77:0.25259075264051095));
+Weight calculation took 5.19007E-4 secs
+ASTRAL finished in 0.142 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep3_15genes
+Scoring Res3_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [3, 4, 11, 10, 6, 5, 8, 7, 9, 2, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.007 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4109
+Final normalized quartet score is: 0.8301010101010101
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 11, 10, 6, 5, 8, 7, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 4, 11, 10, 6, 5, 8, 7, 9}
+(1,(2,(3,(4,(11,(10,((6,5)0.99:0.6325225587435105,(9,(8,7)1:1.1507282898071236)0.24:0.0)0.96:0.4700036292457356)1:2.367123614131617)1:2.367123614131617)0.91:0.3522205935893521)0.89:0.40351388797690263));
+Weight calculation took 4.74262E-4 secs
+ASTRAL finished in 0.136 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep4_15genes
+Scoring Res4_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [9, 10, 11, 5, 6, 8, 7, 4, 2, 3, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.013 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 3962
+Final normalized quartet score is: 0.8004040404040405
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2, 3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 10, 5, 6, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 10, 11, 5, 6, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 10, 11, 5, 6, 8, 7, 4}
+(1,((2,3)0.33:0.0,(4,(11,((9,10)0.08:0.0,((5,6)1:1.317301489632939,(8,7)0.99:0.6241543090729941)0.73:0.1980699137620938)1:1.6739764335716716)1:2.367123614131617)0.9:0.3522205935893521));
+Weight calculation took 6.62774E-4 secs
+ASTRAL finished in 0.19 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep5_15genes
+Scoring Res5_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [3, 11, 10, 5, 6, 9, 7, 8, 4, 2, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.017 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 3863
+Final normalized quartet score is: 0.7804040404040404
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 6, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 5, 6, 9, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 5, 6, 9, 7, 8, 4}
+(1,((3,2)0.2:0.0,(4,(11,((10,9)0.13:0.0,((5,6)0.99:0.6886928302105649,(7,8)0.99:0.6886928302105649)0.7:0.18953501131225647)1:1.881615798349916)1:1.8562979903656265)0.84:0.27879312503453485));
+Weight calculation took 0.001267345 secs
+ASTRAL finished in 0.173 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep6_15genes
+Scoring Res6_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11, 7, 6, 9, 8, 5, 10, 3, 2, 4, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.012 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4119
+Final normalized quartet score is: 0.8321212121212122
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 6, 8, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 6, 9, 8, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 6, 9, 8, 5, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 7, 6, 9, 8, 5, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 7, 6, 9, 8, 5, 10, 4}
+(1,((3,2)0.22:0.0,(4,(11,(10,(9,((7,8)0.92:0.37145195551723964,(6,5)0.97:0.4953214372300254)0.47:0.08985632912186105)0.99:0.6179237593223578)1:2.367123614131617)1:2.367123614131617)0.94:0.42121346507630353));
+Weight calculation took 6.94721E-4 secs
+ASTRAL finished in 0.13 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep7_15genes
+Scoring Res7_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [4, 3, 5, 6, 9, 8, 7, 10, 11, 2, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.008 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4060
+Final normalized quartet score is: 0.8202020202020202
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6, 9, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6, 9, 8, 7, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6, 9, 8, 7, 10, 11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 5, 6, 9, 8, 7, 10, 11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4, 5, 6, 9, 8, 7, 10, 11, 2}
+(1,(3,(2,(4,(11,(10,((5,6)0.99:0.6623755218931912,(9,(8,7)1:1.1507282898071236)0.29:0.0)0.97:0.5004628367304442)1:1.6739764335716716)1:1.6739764335716716)0.91:0.42121346507630353)0.73:0.22705745063534608));
+Weight calculation took 7.7612E-4 secs
+ASTRAL finished in 0.139 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep8_15genes
+Scoring Res8_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11, 9, 7, 10, 8, 5, 6, 3, 2, 4, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.007 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4021
+Final normalized quartet score is: 0.8123232323232323
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 7, 10, 8, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 9, 7, 10, 8, 5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 9, 7, 10, 8, 5, 6, 4}
+(1,((3,2)0.81:0.27217788591581565,(4,(11,((9,10)0.29:0.0,((7,8)1:1.1560333420368167,(5,6)1:0.7295148247308203)0.79:0.24187253642048673)1:1.6739764335716716)1:1.6739764335716716)0.95:0.4418327522790392));
+Weight calculation took 0.002146317 secs
+ASTRAL finished in 0.144 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_15genes_strongILS/Rep9_15genes
+Scoring Res9_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [3, 2, 10, 5, 9, 8, 7, 6, 11, 4, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.009 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4148
+Final normalized quartet score is: 0.8379797979797979
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3, 2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 8, 7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5, 9, 8, 7, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 9, 8, 7, 6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 9, 8, 7, 6, 11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 5, 9, 8, 7, 6, 11, 4}
+(1,((3,2)0.56:0.15610571466306167,(4,(11,(10,((5,6)0.86:0.30166831442652076,(9,(8,7)1:0.8630462173553428)0.29:0.0)1:1.3256697393034556)1:2.367123614131617)1:1.6739764335716716)0.74:0.23549631928121076));
+Weight calculation took 5.41197E-4 secs
+ASTRAL finished in 0.126 secs

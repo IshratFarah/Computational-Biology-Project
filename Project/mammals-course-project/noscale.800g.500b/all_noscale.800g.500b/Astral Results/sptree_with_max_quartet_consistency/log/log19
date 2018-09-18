@@ -1,0 +1,63 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+800 trees read from Best.19
+All output trees will be *arbitrarily* rooted at GAL
+
+======== Running the main analysis
+Number of taxa: 37 (37 species)
+Taxa: [GAL, ORN, FEL, CAN, ERI, SOR, MYO, PTE, EQU, TUR, SUS, BOS, VIC, MAC, MON, DAS, CHO, ECH, LOX, PRO, OCH, ORY, DIP, RAT, MUS, TUP, CAV, SPE, NEW, CAL, PON, GOR, HOM, PAN, TAR, OTO, MIC]
+Taxon occupancy: {PTE=800, NEW=800, RAT=800, TAR=800, SPE=800, ORN=800, CHO=800, OTO=800, PRO=800, ORY=800, MYO=800, MIC=800, BOS=800, HOM=800, EQU=800, DIP=800, MUS=800, ECH=800, GOR=800, FEL=800, MON=800, MAC=800, TUP=800, PON=800, CAL=800, TUR=800, SUS=800, CAN=800, VIC=800, GAL=800, LOX=800, OCH=800, SOR=800, DAS=800, CAV=800, PAN=800, ERI=800}
+Number of gene trees: 800
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 3783
+Number of Clusters after addition by distance: 3783
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:975
+polytomy size limit : 5
+discarded polytomies:  [3, 3, 3, 3, 3, 4, 5]
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 3783
+Threshold 0.3333333333333333:
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 3783
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 3783
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 3783
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 3783
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 3783
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 3783
+max k is :0
+Number of Clusters after addition by greedy: 3783
+gradient0 in heuristiic: 3783
+partitions formed in 3.545 secs
+Dynamic Programming starting after 3.545 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 52836000
+Polytree building time: 0.509 seconds.
+Number of quartet trees in the gene trees: 52836000
+Size of largest cluster: 37
+Greedy score: 38923363
+estimationFactor: 1.3574366634249975
+Sub-optimal score: 43411952
+Total Number of elements weighted: 14800
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.8538190627602392
+Optimization score: 45112384
+Optimal tree inferred in 6.597 secs.
+(MIC,(OTO,((TAR,(CAL,(NEW,(PON,(GOR,(HOM,PAN)))))),((TUP,((OCH,ORY),(SPE,(CAV,(DIP,(RAT,MUS)))))),((((GAL,ORN),(MAC,MON)),((DAS,CHO),(ECH,(LOX,PRO)))),((ERI,SOR),((MYO,PTE),((EQU,(FEL,CAN)),(VIC,(SUS,(TUR,BOS)))))))))));
+Final quartet score is: 45112384
+Final normalized quartet score is: 0.8538190627602392
+(GAL,(ORN,((MAC,MON)1:1.585578862847458,(((DAS,CHO)1:2.987650165525539,(ECH,(LOX,PRO)1:1.2559349911801352)1:1.7673066771160757)1:0.10188998783097969,(((ERI,SOR)1:0.3627549520266796,((MYO,PTE)1:0.8456717532181728,((EQU,(FEL,CAN)1:2.275203982169071)0.97:0.06079190718737768,(VIC,(SUS,(TUR,BOS)1:0.6389060432211253)1:0.2911306784276285)1:2.106521521114785)0.96:0.06030281030743283)1:0.40433906003187703)1:1.519231047082155,((TUP,((OCH,ORY)1:2.2211029147970134,(SPE,(CAV,(DIP,(RAT,MUS)1:2.4258773280122394)1:0.2921941850608374)0.98:0.06670482760048735)1:0.7018459541138216)1:0.5713971075995514)1:0.08351214787764476,((TAR,(CAL,(NEW,(PON,(GOR,(HOM,PAN)1:0.47198841322512175)1:1.4972062665490478)1:1.8327326533916202)1:0.25978362955087303)1:0.87919101223673)1:0.20471461501276894,(OTO,MIC)1:1.4304004884609742)1:1.2105430750867094)1:1.2916491285222569)1:0.9083820631664881)1:0.878668071277945)1:0.0903288494541203));
+Weight calculation took 2.295220564 secs
+ASTRAL finished in 7.536 secs

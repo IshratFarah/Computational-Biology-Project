@@ -1,0 +1,58 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+100 trees read from Rep4
+All output trees will be *arbitrarily* rooted at 3
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [3, 2, 4, 11, 5, 8, 6, 7, 9, 10, 1]
+Taxon occupancy: {11=100, 1=100, 2=100, 3=100, 4=100, 5=100, 6=100, 7=100, 8=100, 9=100, 10=100}
+Number of gene trees: 100
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 201
+Number of Clusters after addition by distance: 201
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  [3, 3]
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 201
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 201
+max k is :0
+Number of Clusters after addition by greedy: 201
+gradient0 in heuristiic: 201
+partitions formed in 0.245 secs
+Dynamic Programming starting after 0.245 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 33000
+Polytree building time: 0.025 seconds.
+Number of quartet trees in the gene trees: 33000
+Size of largest cluster: 11
+Greedy score: 26594
+estimationFactor: 1.2408814018199594
+Sub-optimal score: 26594
+Total Number of elements weighted: 451
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.8065757575757576
+Optimization score: 26617
+Optimal tree inferred in 0.336 secs.
+(2,((3,1),(4,(11,(10,(9,((5,6),(8,7))))))));
+Final quartet score is: 26617
+Final normalized quartet score is: 0.8065757575757576
+(3,(1,((4,(11,(10,(9,((5,6)1:0.7131478472666153,(8,7)1:0.6084368931775839)1:0.33758671881198177)1:0.2996344059756218)1:2.1116374814803227)1:1.9880393782727175)1:0.5030763775197578,2)0.46:0.025698687821307218));
+Weight calculation took 0.02174121 secs
+ASTRAL finished in 0.487 secs

@@ -1,0 +1,65 @@
+tree Description:
+
+true tree->model tree trimmed
+astral tree-> Res8_stripped_astral_max_25genes
+phylonet tree-> Res8_stripped_phylonet_infer_st_25genes_
+
+**************************************************************
+
+Estimating Quartet Score of the neighbour trees:
+
+I have chosen the following dataset: Estimated strongILS 25 genes
+
+1. Estimated neighboring trees of :
+
+        The True species tree (model tree trimmed)
+        A species tree estimated by Phylonet
+        A species tree estimated by Astral
+
+(generated 288 neighboring trees for each)
+
+2. Estimated the quartet scores by providing the neighboring trees as 'Species tree to be scored', and providing a set of gene trees (only one replicate, i.e. Replicate_8).
+
+For example, Quartet scores for neighbour of True trees are estimated as below:
+-q  <neighbour_species_tree_1>  -i  <Replicate_8>  -o  <output tree>  2>  <log file which contains the quartet score> 
+.
+.
+.
+-q  <neighbour_species_tree_288>  -i  <Replicate_8>  -o <output tree>  2>  <log file which contains the quartet score>
+
+In the similar way, quartet scores of neighbouring trees of an Astral tree and a Phylonet tree will be estimated by providing the same gene tree set (i.e. Replicate_8). 
+
+Command:
+
+for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -q $((i))_true_tree -i /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep8_25genes -o temp$((i)) 2> log$((i));done
+
+******************************************************************
+
+Estimating Average Extra Lineage of the neighbouring trees:
+
+deep_coal_count <neigbour tree> <set of gene trees i.e. Replicate8> > <output file containing Extra Lineage Score>
+
+Command:
+
+for i in {1..288};do java -jar /home/farah/Downloads/phylonet_v2_4/phylonet_v2_4/phylonet_v2_4.jar deep_coal_count $((i))_true_tree /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep8_25genes > EL$((i));done 
+
+
+
+******************************************************************
+
+For calculating the FN rates, I have compared all of the neighboring trees with the true species tree. For example,
+Astral:
+getFpFN -t True_Species_Tree -e Astral_neighbour_1
+.
+.
+getFpFN -t True_Species_Tree -e Astral_neighbour_288
+Phylonet:
+getFpFN -t True_Species_Tree -e Phylonet_neighbour_1
+.
+.
+getFpFN -t True_Species_Tree -e Phylonet_neighbour_288
+True Tree:
+getFpFN -t True_Species_Tree -e True_Tree_neighbour_1
+.
+.
+getFpFN -t True_Species_Tree -e True_Tree_neighbour_288

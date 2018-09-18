@@ -1,0 +1,23 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+25 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep17_25genes
+Scoring Res17_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [4, 11, 10, 5, 8, 7, 9, 6, 2, 3, 1]
+Taxon occupancy: {11=25, 1=25, 2=25, 3=25, 4=25, 5=25, 6=25, 7=25, 8=25, 9=25, 10=25}
+Number of gene trees: 25
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 8250
+Polytree building time: 0.012 seconds.
+Number of quartet trees in the gene trees: 8250
+Final quartet score is: 6786
+Final normalized quartet score is: 0.8225454545454546
+(1,((2,3)0.5:0.07226056723148144,(4,(11,(10,(9,((8,7)1:1.0490375030382602,(5,6)0.98:0.40409242429619224)0.63:0.11448319765382833)0.97:0.38877818932314984)1:2.264844765011199)1:1.648658625587381)1:0.6013396313068224));
+Weight calculation took 7.37356E-4 secs
+ASTRAL finished in 0.157 secs

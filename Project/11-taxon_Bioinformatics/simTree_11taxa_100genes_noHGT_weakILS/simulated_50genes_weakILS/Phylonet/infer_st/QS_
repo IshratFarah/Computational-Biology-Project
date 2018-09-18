@@ -1,0 +1,460 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep1_50genes
+Scoring Res1_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [3.3, 2.2, 1.1, 4.4, 10.10, 9.9, 8.8, 7.7, 6.6, 5.5, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.011 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16336
+Final normalized quartet score is: 0.9900606060606061
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.7346010553881062)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((6.6,5.5)1:3.5263605246161593,(8.8,7.7)1:2.4277482359480516)1:1.9169226121820613)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.39671E-4 secs
+ASTRAL finished in 0.184 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep10_50genes
+Scoring Res10_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [4.4, 3.3, 1.1, 2.2, 6.6, 5.5, 8.8, 7.7, 9.9, 10.10, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.013 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16220
+Final normalized quartet score is: 0.983030303030303
+(11.11,((4.4,(3.3,(1.1,2.2)1:2.8332133440562166)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((6.6,5.5)1:3.5263605246161593,(8.8,7.7)1:2.14006616349627)1:1.2750687260096663)1:2.8332133440562166)1:3.5263605246161593));
+Weight calculation took 5.70792E-4 secs
+ASTRAL finished in 0.197 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep11_50genes
+Scoring Res11_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 10.10, 6.6, 5.5, 8.8, 7.7, 9.9, 4.4, 3.3, 2.2, 1.1]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 11.11=50, 10.10=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.011 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16292
+Final normalized quartet score is: 0.9873939393939394
+(11.11,((10.10,(9.9,((6.6,5.5)1:3.5263605246161593,(8.8,7.7)1:3.5263605246161593)1:1.3291359472799418)1:3.5263605246161593)1:3.5263605246161593,(4.4,(3.3,(2.2,1.1)1:2.4277482359480516)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.16557E-4 secs
+ASTRAL finished in 0.168 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep12_50genes
+Scoring Res12_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [4.4, 3.3, 2.2, 1.1, 6.6, 5.5, 7.7, 8.8, 9.9, 10.10, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.014 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16332
+Final normalized quartet score is: 0.9898181818181818
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.5804503755608483)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((6.6,5.5)1:3.5263605246161593,(7.7,8.8)1:3.5263605246161593)1:1.7346010553881062)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.21026E-4 secs
+ASTRAL finished in 0.244 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep13_50genes
+Scoring Res13_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 4.4, 3.3, 1.1, 2.2, 10.10, 5.5, 6.6, 8.8, 7.7, 9.9]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 11.11=50, 10.10=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.012 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16172
+Final normalized quartet score is: 0.9801212121212122
+(11.11,((4.4,(3.3,(1.1,2.2)1:1.7346010553881062)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((5.5,6.6)1:3.5263605246161593,(8.8,7.7)1:3.5263605246161593)1:0.9614111671546247)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.73413E-4 secs
+ASTRAL finished in 0.155 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep14_50genes
+Scoring Res14_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [3.3, 1.1, 2.2, 4.4, 8.8, 7.7, 6.6, 5.5, 9.9, 10.10, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.012 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16192
+Final normalized quartet score is: 0.9813333333333333
+(11.11,((4.4,(3.3,(1.1,2.2)1:1.0414538748281608)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((8.8,7.7)1:3.5263605246161593,(6.6,5.5)1:2.4277482359480516)1:1.3291359472799418)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 6.00375E-4 secs
+ASTRAL finished in 0.164 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep15_50genes
+Scoring Res15_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 2.2, 3.3, 1.1, 4.4, 10.10, 9.9, 6.6, 5.5, 8.8, 7.7]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 11.11=50, 10.10=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.012 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16238
+Final normalized quartet score is: 0.9841212121212122
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.9169226121820613)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((8.8,7.7)1:3.5263605246161593,(6.6,5.5)1:2.8332133440562166)1:1.2237754316221159)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 6.26522E-4 secs
+ASTRAL finished in 0.184 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep16_50genes
+Scoring Res16_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [4.4, 3.3, 2.2, 1.1, 6.6, 5.5, 8.8, 7.7, 9.9, 10.10, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.013 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16220
+Final normalized quartet score is: 0.983030303030303
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.0414538748281608)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((6.6,5.5)1:3.5263605246161593,(8.8,7.7)1:2.4277482359480516)1:1.5804503755608483)1:2.8332133440562166)1:3.5263605246161593));
+Weight calculation took 5.51766E-4 secs
+ASTRAL finished in 0.187 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep17_50genes
+Scoring Res17_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [1.1, 2.2, 3.3, 4.4, 10.10, 9.9, 6.6, 5.5, 8.8, 7.7, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.022 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16268
+Final normalized quartet score is: 0.9859393939393939
+(11.11,((4.4,(3.3,(1.1,2.2)1:2.4277482359480516)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((6.6,5.5)1:3.5263605246161593,(8.8,7.7)1:3.5263605246161593)1:1.2237754316221159)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.23769E-4 secs
+ASTRAL finished in 0.181 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep18_50genes
+Scoring Res18_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [2.2, 1.1, 3.3, 4.4, 10.10, 5.5, 6.6, 7.7, 8.8, 9.9, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.009 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16300
+Final normalized quartet score is: 0.9878787878787879
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.128465251817791)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((5.5,6.6)1:3.5263605246161593,(7.7,8.8)1:3.5263605246161593)1:1.7346010553881062)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 6.78288E-4 secs
+ASTRAL finished in 0.213 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep19_50genes
+Scoring Res19_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 5.5, 6.6, 7.7, 8.8, 9.9, 10.10, 4.4, 3.3, 2.2, 1.1]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 11.11=50, 10.10=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.042 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16348
+Final normalized quartet score is: 0.9907878787878788
+(11.11,((10.10,(9.9,((5.5,6.6)1:3.5263605246161593,(7.7,8.8)1:3.5263605246161593)1:1.9169226121820613)1:3.5263605246161593)1:3.5263605246161593,(4.4,(3.3,(2.2,1.1)1:1.4469189829363254)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.16541E-4 secs
+ASTRAL finished in 0.248 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep2_50genes
+Scoring Res2_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [10.10, 9.9, 7.7, 8.8, 5.5, 6.6, 1.1, 2.2, 3.3, 4.4, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.018 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16190
+Final normalized quartet score is: 0.9812121212121212
+(11.11,((4.4,(3.3,(1.1,2.2)1:1.128465251817791)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((7.7,8.8)1:3.5263605246161593,(5.5,6.6)1:2.8332133440562166)1:1.2237754316221159)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.52616E-4 secs
+ASTRAL finished in 0.203 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep20_50genes
+Scoring Res20_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 4.4, 1.1, 2.2, 3.3, 7.7, 8.8, 5.5, 6.6, 9.9, 10.10]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 11.11=50, 10.10=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.014 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16222
+Final normalized quartet score is: 0.9831515151515151
+(11.11,((4.4,(3.3,(1.1,2.2)1:0.9614111671546247)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((5.5,6.6)1:3.5263605246161593,(7.7,8.8)1:2.8332133440562166)1:1.4469189829363254)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.74874E-4 secs
+ASTRAL finished in 0.198 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep3_50genes
+Scoring Res3_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 10.10, 9.9, 5.5, 6.6, 8.8, 7.7, 1.1, 2.2, 3.3, 4.4]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 11.11=50, 10.10=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.036 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16380
+Final normalized quartet score is: 0.9927272727272727
+(11.11,((10.10,(9.9,((5.5,6.6)1:3.5263605246161593,(8.8,7.7)1:3.5263605246161593)1:2.14006616349627)1:3.5263605246161593)1:3.5263605246161593,(4.4,(3.3,(1.1,2.2)1:1.5804503755608483)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 0.001028502 secs
+ASTRAL finished in 0.253 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep4_50genes
+Scoring Res4_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [10.10, 8.8, 7.7, 6.6, 5.5, 9.9, 1.1, 2.2, 3.3, 4.4, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.009 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16366
+Final normalized quartet score is: 0.9918787878787879
+(11.11,((4.4,(3.3,(1.1,2.2)1:1.5804503755608483)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((6.6,5.5)1:3.5263605246161593,(8.8,7.7)1:2.8332133440562166)1:2.14006616349627)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.24172E-4 secs
+ASTRAL finished in 0.118 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep5_50genes
+Scoring Res5_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [3.3, 2.2, 1.1, 4.4, 9.9, 5.5, 6.6, 8.8, 7.7, 10.10, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 1.1=50, 9.9=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.012 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16388
+Final normalized quartet score is: 0.9932121212121212
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.7346010553881062)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((5.5,6.6)1:3.5263605246161593,(8.8,7.7)1:3.5263605246161593)1:2.14006616349627)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.91989E-4 secs
+ASTRAL finished in 0.143 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep6_50genes
+Scoring Res6_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [10.10, 5.5, 6.6, 8.8, 7.7, 9.9, 4.4, 3.3, 2.2, 1.1, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.015 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16234
+Final normalized quartet score is: 0.9838787878787879
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.4469189829363254)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((5.5,6.6)1:3.5263605246161593,(8.8,7.7)1:2.14006616349627)1:1.4469189829363254)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.47889E-4 secs
+ASTRAL finished in 0.23 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep7_50genes
+Scoring Res7_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [8.8, 7.7, 5.5, 6.6, 9.9, 10.10, 3.3, 1.1, 2.2, 4.4, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.053 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16152
+Final normalized quartet score is: 0.978909090909091
+(11.11,((4.4,(3.3,(1.1,2.2)1:1.4469189829363254)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((8.8,7.7)1:2.8332133440562166,(5.5,6.6)1:2.8332133440562166)1:1.0414538748281608)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 8.37037E-4 secs
+ASTRAL finished in 0.264 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep8_50genes
+Scoring Res8_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [8.8, 7.7, 6.6, 5.5, 9.9, 10.10, 2.2, 1.1, 3.3, 4.4, 11.11]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 10.10=50, 11.11=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.012 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16254
+Final normalized quartet score is: 0.9850909090909091
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.128465251817791)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((6.6,5.5)1:3.5263605246161593,(8.8,7.7)1:2.4277482359480516)1:1.65455834771457)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 5.47235E-4 secs
+ASTRAL finished in 0.216 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+50 trees read from /home/farah/Project/11-taxon_Bioinformatics/simTree_11taxa_100genes_noHGT_weakILS/simulated_50genes_weakILS/Rep9_50genes
+Scoring Res9_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 5.5, 6.6, 8.8, 7.7, 9.9, 10.10, 3.3, 2.2, 1.1, 4.4]
+Taxon occupancy: {7.7=50, 8.8=50, 9.9=50, 1.1=50, 2.2=50, 11.11=50, 10.10=50, 3.3=50, 4.4=50, 5.5=50, 6.6=50}
+Number of gene trees: 50
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 16500
+Polytree building time: 0.06 seconds.
+Number of quartet trees in the gene trees: 16500
+Final quartet score is: 16294
+Final normalized quartet score is: 0.9875151515151516
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.5804503755608483)1:3.5263605246161593)1:3.5263605246161593,(10.10,(9.9,((8.8,7.7)1:3.5263605246161593,(5.5,6.6)1:2.8332133440562166)1:1.5804503755608483)1:3.5263605246161593)1:3.5263605246161593));
+Weight calculation took 6.06099E-4 secs
+ASTRAL finished in 0.229 secs

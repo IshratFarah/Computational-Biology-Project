@@ -1,0 +1,60 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+200 trees read from Best.13
+All output trees will be *arbitrarily* rooted at GAL
+
+======== Running the main analysis
+Number of taxa: 37 (37 species)
+Taxa: [GAL, ECH, PRO, LOX, VIC, TUR, BOS, PTE, MYO, SOR, OCH, ORY, SPE, MUS, RAT, DIP, CAV, ERI, SUS, CAN, FEL, EQU, TUP, NEW, HOM, PON, GOR, PAN, CAL, TAR, OTO, MIC, MAC, MON, ORN, CHO, DAS]
+Taxon occupancy: {PTE=200, NEW=200, RAT=200, TAR=200, SPE=200, ORN=200, OTO=200, CHO=200, PRO=200, ORY=200, MYO=200, MIC=200, BOS=200, HOM=200, EQU=200, MUS=200, DIP=200, ECH=200, GOR=200, FEL=200, MON=200, TUP=200, PON=200, MAC=200, CAL=200, TUR=200, SUS=200, VIC=200, CAN=200, GAL=200, LOX=200, OCH=200, SOR=200, DAS=200, CAV=200, PAN=200, ERI=200}
+Number of gene trees: 200
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 1283
+Number of Clusters after addition by distance: 1283
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:975
+polytomy size limit : 5
+discarded polytomies:  [3, 3, 3, 5]
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1283
+Threshold 0.3333333333333333:
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 1283
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1283
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1283
+max k is :0
+Number of Clusters after addition by greedy: 1283
+gradient0 in heuristiic: 1283
+partitions formed in 2.126 secs
+Dynamic Programming starting after 2.126 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 13209000
+Polytree building time: 0.229 seconds.
+Number of quartet trees in the gene trees: 13209000
+Size of largest cluster: 37
+Greedy score: 11145101
+estimationFactor: 1.1851844142103334
+Sub-optimal score: 11310784
+Total Number of elements weighted: 2985
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.8769829661594367
+Optimization score: 11584068
+Optimal tree inferred in 3.144 secs.
+(DAS,(CHO,((ECH,(PRO,LOX)),(((MAC,MON),(GAL,ORN)),(((SOR,ERI),((PTE,MYO),((EQU,(CAN,FEL)),(VIC,(SUS,(TUR,BOS)))))),(TUP,(((OCH,ORY),((SPE,CAV),(DIP,(MUS,RAT)))),((OTO,MIC),(TAR,(CAL,(NEW,(PON,(GOR,(HOM,PAN))))))))))))));
+Final quartet score is: 11584068
+Final normalized quartet score is: 0.8769829661594367
+(GAL,(ORN,((MAC,MON)1:2.1261984960671696,((((SOR,ERI)1:0.5516507188849495,((PTE,MYO)1:1.5853249496920099,((EQU,(CAN,FEL)1:2.574875544620213)0.84:0.09020507385701107,(VIC,(SUS,(TUR,BOS)1:0.9840536439043842)1:0.3077832517728681)1:2.4178836553227647)0.82:0.07453860447215471)1:0.4930320541322129)1:1.6538215637431273,(TUP,(((OCH,ORY)1:2.798595630974895,((SPE,CAV)0.94:0.10861345135665698,(DIP,(MUS,RAT)1:2.5952547069568657)1:0.3297551083190903)1:1.043269369270851)1:0.7566638227722724,((OTO,MIC)1:2.1075515006117316,(TAR,(CAL,(NEW,(PON,(GOR,(HOM,PAN)1:0.6073803588025202)1:1.4321038971511846)1:1.8840425189992827)1:0.2993856646144639)1:0.7483759385077309)1:0.3605788890789633)1:1.6100618106573643)0.51:0.033405387747645385)1:1.4239890268533426)1:1.10411266218977,((ECH,(PRO,LOX)1:1.7197859696029656)1:2.3304894809518357,(CHO,DAS)1:3.799227511282799)0.96:0.11689224116702499)1:1.243662710688788)1:0.21865904915044143));
+Weight calculation took 0.467480634 secs
+ASTRAL finished in 3.852 secs

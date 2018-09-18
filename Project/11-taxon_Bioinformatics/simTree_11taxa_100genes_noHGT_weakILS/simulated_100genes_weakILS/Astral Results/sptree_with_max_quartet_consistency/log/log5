@@ -1,0 +1,56 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+100 trees read from simtrees_5
+All output trees will be *arbitrarily* rooted at 5.5
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [5.5, 6.6, 8.8, 7.7, 9.9, 10.10, 3.3, 1.1, 2.2, 4.4, 11.11]
+Taxon occupancy: {7.7=100, 8.8=100, 9.9=100, 1.1=100, 2.2=100, 10.10=100, 11.11=100, 3.3=100, 4.4=100, 5.5=100, 6.6=100}
+Number of gene trees: 100
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 49
+Number of Clusters after addition by distance: 49
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 49
+gradient0 in heuristiic: 49
+partitions formed in 0.222 secs
+Dynamic Programming starting after 0.223 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 33000
+Polytree building time: 0.011 seconds.
+Number of quartet trees in the gene trees: 33000
+Size of largest cluster: 11
+Greedy score: 32608
+estimationFactor: 1.0120215897939155
+Sub-optimal score: 32608
+Total Number of elements weighted: 42
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9881212121212121
+Optimization score: 32608
+Optimal tree inferred in 0.272 secs.
+(6.6,(5.5,((8.8,7.7),(9.9,(10.10,(11.11,(4.4,(3.3,(1.1,2.2)))))))));
+Final quartet score is: 32608
+Final normalized quartet score is: 0.9881212121212121
+(5.5,(((8.8,7.7)1:4.209655408733094,(9.9,(10.10,(11.11,(4.4,(3.3,(1.1,2.2)1:1.5705980791178364)1:4.209655408733094)1:4.209655408733094)1:4.209655408733094)1:4.209655408733094)1:1.6447060512715583)1:4.209655408733094,6.6));
+Weight calculation took 0.007244672 secs
+ASTRAL finished in 0.419 secs

@@ -1,0 +1,39 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_weakILS/estimated_15genes_weakILS/Rep3_15genes
+Scoring Res3_stripped
+Scoring: 1 trees
+Number of taxa: 11 (11 species)
+Taxa: [2, 11, 10, 9, 6, 5, 7, 8, 4, 3, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.025 seconds.
+Number of quartet trees in the gene trees: 4950
+Final quartet score is: 4072
+Final normalized quartet score is: 0.8226262626262626
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2, 3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 9, 6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 9, 6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 9, 6, 5, 7, 8, 4}
+(1,((2,3)0.1:0.0,(4,(11,(10,(9,((6,5)0.95:0.4628861614768718,(7,8)1:0.7866732385707687)0.77:0.23197146543777514)1:0.7985076962177715)1:1.3024128771391879)1:1.9252908618525777)0.99:0.6367330912798541));
+Weight calculation took 4.90843E-4 secs
+ASTRAL finished in 0.225 secs

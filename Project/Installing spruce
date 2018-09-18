@@ -1,0 +1,18 @@
+go to spruce folder where the setup.py file is. open terminal.
+
+*******************************
+commands:
+sudo su 
+[provide password]
+python setup.py install --home=/u/farah
+export PATH=$PATH:/u/farah
+*******************************
+
+from newick folder, copy newick_modified folder and paste it inside spruce folder [where setup.py file is]
+copy getFnFp.py file and paste it in the same location [inside spruce folder where the setup.py file is]
+
+while running the getFnFp command, provide the whole path. i.e. 
+
+/home/puti/Desktop/Desktop/spruce-1.0/getFpFn.py -t model_tree_trimmed -e Res3_stripped 
+
+

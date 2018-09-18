@@ -1,0 +1,1563 @@
+0
+6
+10
+0
+0
+3
+6
+0
+6
+10
+0
+0
+0
+0
+3
+3
+3
+15
+6
+0
+
+average value: 6.45454545454545
+total number considered: 11
+standard error: 1.10119121348436Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):1,4.4:0):2,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):3,11.11:0):0;
+Total number of extra lineages: 6
+6
+Species_Tree#1 = (((((1.1:0,2.2:0):1,3.3:0):2,4.4:0):3,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):4,11.11:0):0;
+Total number of extra lineages: 10
+10
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):1,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):2,11.11:0):0;
+Total number of extra lineages: 3
+3
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):1,4.4:0):2,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):3,11.11:0):0;
+Total number of extra lineages: 6
+6
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):1,10.10:0):2):3,11.11:0):0;
+Total number of extra lineages: 6
+6
+Species_Tree#1 = (((((1.1:0,2.2:0):1,3.3:0):2,4.4:0):3,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):4,11.11:0):0;
+Total number of extra lineages: 10
+10
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):1):2,11.11:0):0;
+Total number of extra lineages: 3
+3
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):1,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):2,11.11:0):0;
+Total number of extra lineages: 3
+3
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):1):2,11.11:0):0;
+Total number of extra lineages: 3
+3
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):1,(7.7:0,8.8:0):0):2,9.9:0):3,10.10:0):4):5,11.11:0):0;
+Total number of extra lineages: 15
+15
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):1,10.10:0):2):3,11.11:0):0;
+Total number of extra lineages: 6
+6
+Species_Tree#1 = (((((1.1:0,2.2:0):0,3.3:0):0,4.4:0):0,((((5.5:0,6.6:0):0,(7.7:0,8.8:0):0):0,9.9:0):0,10.10:0):0):0,11.11:0):0;
+Total number of extra lineages: 0
+0
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep1_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 9.9, 6.6, 5.5, 7.7, 8.8, 10.10, 3.3, 2.2, 1.1, 4.4]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 43
+Number of Clusters after addition by distance: 43
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 43
+gradient0 in heuristiic: 43
+partitions formed in 0.068 secs
+Dynamic Programming starting after 0.068 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4894
+estimationFactor: 1.0114425827543931
+Sub-optimal score: 4894
+Total Number of elements weighted: 38
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9886868686868687
+Optimization score: 4894
+Optimal tree inferred in 0.108 secs.
+(9.9,(((7.7,8.8),(6.6,5.5)),(10.10,(11.11,(4.4,(3.3,(2.2,1.1)))))));
+Final quartet score is: 4894
+Final normalized quartet score is: 0.9886868686868687
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 2.2, 1.1, 4.4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 6.6, 5.5, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 6.6, 5.5, 7.7, 8.8, 10.10}
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617,(10.10,(((7.7,8.8)1:2.367123614131617,(6.6,5.5)1:2.367123614131617)1:1.2685113254635072,9.9)1:2.367123614131617)1:2.367123614131617));
+Weight calculation took 6.20133E-4 secs
+ASTRAL finished in 0.22 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep10_15genes
+All output trees will be *arbitrarily* rooted at 3.3
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [3.3, 2.2, 1.1, 4.4, 10.10, 8.8, 7.7, 6.6, 5.5, 9.9, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 43
+Number of Clusters after addition by distance: 43
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 43
+gradient0 in heuristiic: 43
+partitions formed in 0.144 secs
+Dynamic Programming starting after 0.144 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4902
+estimationFactor: 1.0097919216646267
+Sub-optimal score: 4902
+Total Number of elements weighted: 37
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9903030303030304
+Optimization score: 4902
+Optimal tree inferred in 0.169 secs.
+(2.2,(1.1,(3.3,(4.4,(11.11,(10.10,(9.9,((8.8,7.7),(6.6,5.5)))))))));
+Final quartet score is: 4902
+Final normalized quartet score is: 0.9903030303030304
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 6.6, 5.5, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 8.8, 7.7, 6.6, 5.5, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 8.8, 7.7, 6.6, 5.5, 9.9, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 10.10, 8.8, 7.7, 6.6, 5.5, 9.9, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+(3.3,((4.4,(11.11,(10.10,(9.9,((8.8,7.7)1:2.367123614131617,(6.6,5.5)1:2.367123614131617)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(1.1,2.2)1:2.367123614131617));
+Weight calculation took 6.89612E-4 secs
+ASTRAL finished in 0.244 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep11_15genes
+All output trees will be *arbitrarily* rooted at 2.2
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [2.2, 1.1, 3.3, 4.4, 5.5, 6.6, 7.7, 8.8, 9.9, 10.10, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 43
+Number of Clusters after addition by distance: 43
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 43
+gradient0 in heuristiic: 43
+partitions formed in 0.093 secs
+Dynamic Programming starting after 0.093 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4918
+estimationFactor: 1.0065067100447336
+Sub-optimal score: 4918
+Total Number of elements weighted: 37
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9935353535353535
+Optimization score: 4918
+Optimal tree inferred in 0.138 secs.
+(1.1,(2.2,(3.3,(4.4,(11.11,(10.10,(9.9,((5.5,6.6),(7.7,8.8)))))))));
+Final quartet score is: 4918
+Final normalized quartet score is: 0.9935353535353535
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6, 7.7, 8.8, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6, 7.7, 8.8, 9.9, 10.10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6, 7.7, 8.8, 9.9, 10.10, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 5.5, 6.6, 7.7, 8.8, 9.9, 10.10, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 4.4, 5.5, 6.6, 7.7, 8.8, 9.9, 10.10, 11.11}
+(2.2,((3.3,(4.4,(11.11,(10.10,(9.9,((5.5,6.6)1:2.367123614131617,(7.7,8.8)1:2.367123614131617)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:1.6739764335716716,1.1));
+Weight calculation took 7.45193E-4 secs
+ASTRAL finished in 0.195 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep12_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 10.10, 9.9, 6.6, 5.5, 7.7, 8.8, 4.4, 3.3, 1.1, 2.2]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 47
+Number of Clusters after addition by distance: 47
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 47
+gradient0 in heuristiic: 47
+partitions formed in 0.067 secs
+Dynamic Programming starting after 0.067 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.003 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4832
+estimationFactor: 1.0244205298013245
+Sub-optimal score: 4832
+Total Number of elements weighted: 43
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9761616161616161
+Optimization score: 4832
+Optimal tree inferred in 0.091 secs.
+(10.10,((11.11,(4.4,(3.3,(1.1,2.2)))),(9.9,((7.7,8.8),(6.6,5.5)))));
+Final quartet score is: 4832
+Final normalized quartet score is: 0.9761616161616161
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 3.3, 1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 6.6, 5.5, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 9.9, 6.6, 5.5, 7.7, 8.8}
+(11.11,((4.4,(3.3,(1.1,2.2)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617,((9.9,((7.7,8.8)1:2.367123614131617,(6.6,5.5)1:1.6739764335716716)1:0.7576857016975165)1:2.367123614131617,10.10)1:2.367123614131617));
+Weight calculation took 8.3585E-4 secs
+ASTRAL finished in 0.154 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep13_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 7.7, 8.8, 6.6, 5.5, 9.9, 10.10, 2.2, 1.1, 3.3, 4.4]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 47
+Number of Clusters after addition by distance: 47
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 47
+gradient0 in heuristiic: 47
+partitions formed in 0.108 secs
+Dynamic Programming starting after 0.108 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4854
+estimationFactor: 1.019777503090235
+Sub-optimal score: 4854
+Total Number of elements weighted: 40
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9806060606060606
+Optimization score: 4854
+Optimal tree inferred in 0.165 secs.
+(7.7,(8.8,((6.6,5.5),(9.9,(10.10,(11.11,(4.4,(3.3,(2.2,1.1)))))))));
+Final quartet score is: 4854
+Final normalized quartet score is: 0.9806060606060606
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1, 3.3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1, 3.3, 4.4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8, 6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8, 6.6, 5.5, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8, 6.6, 5.5, 9.9, 10.10}
+(11.11,((4.4,(3.3,(2.2,1.1)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617,(10.10,(9.9,((6.6,5.5)1:2.367123614131617,(8.8,7.7)1:2.367123614131617)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617));
+Weight calculation took 7.83223E-4 secs
+ASTRAL finished in 0.242 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep14_15genes
+All output trees will be *arbitrarily* rooted at 4.4
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [4.4, 1.1, 2.2, 3.3, 10.10, 6.6, 5.5, 8.8, 7.7, 9.9, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 43
+Number of Clusters after addition by distance: 43
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 43
+gradient0 in heuristiic: 43
+partitions formed in 0.139 secs
+Dynamic Programming starting after 0.139 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.012 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4912
+estimationFactor: 1.0077361563517915
+Sub-optimal score: 4912
+Total Number of elements weighted: 37
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9923232323232323
+Optimization score: 4912
+Optimal tree inferred in 0.188 secs.
+(1.1,(2.2,(3.3,(4.4,(11.11,(10.10,(9.9,((8.8,7.7),(6.6,5.5)))))))));
+Final quartet score is: 4912
+Final normalized quartet score is: 0.9923232323232323
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 8.8, 7.7, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 6.6, 5.5, 8.8, 7.7, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 6.6, 5.5, 8.8, 7.7, 9.9, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 2.2, 3.3}
+(4.4,((11.11,(10.10,(9.9,((8.8,7.7)1:2.367123614131617,(6.6,5.5)1:1.6739764335716716)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(3.3,(2.2,1.1)1:2.367123614131617)1:2.367123614131617));
+Weight calculation took 9.96013E-4 secs
+ASTRAL finished in 0.276 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep15_15genes
+All output trees will be *arbitrarily* rooted at 3.3
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [3.3, 1.1, 2.2, 4.4, 6.6, 5.5, 7.7, 8.8, 9.9, 10.10, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 49
+Number of Clusters after addition by distance: 49
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 49
+gradient0 in heuristiic: 49
+partitions formed in 0.191 secs
+Dynamic Programming starting after 0.191 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.024 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4848
+estimationFactor: 1.021039603960396
+Sub-optimal score: 4848
+Total Number of elements weighted: 43
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9793939393939394
+Optimization score: 4848
+Optimal tree inferred in 0.272 secs.
+(1.1,(2.2,(3.3,(4.4,(11.11,(10.10,(9.9,((7.7,8.8),(6.6,5.5)))))))));
+Final quartet score is: 4848
+Final normalized quartet score is: 0.9793939393939394
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 7.7, 8.8, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 7.7, 8.8, 9.9, 10.10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 7.7, 8.8, 9.9, 10.10, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 6.6, 5.5, 7.7, 8.8, 9.9, 10.10, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 2.2}
+(3.3,((4.4,(11.11,(10.10,(9.9,((7.7,8.8)1:2.367123614131617,(6.6,5.5)1:1.6739764335716716)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(2.2,1.1)1:1.2685113254635072));
+Weight calculation took 0.001019243 secs
+ASTRAL finished in 0.323 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep16_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 10.10, 7.7, 5.5, 6.6, 8.8, 9.9, 4.4, 2.2, 1.1, 3.3]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 49
+Number of Clusters after addition by distance: 49
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 49
+gradient0 in heuristiic: 49
+partitions formed in 0.151 secs
+Dynamic Programming starting after 0.151 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.008 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4848
+estimationFactor: 1.021039603960396
+Sub-optimal score: 4848
+Total Number of elements weighted: 45
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9793939393939394
+Optimization score: 4848
+Optimal tree inferred in 0.198 secs.
+(10.10,((11.11,(4.4,(3.3,(2.2,1.1)))),(9.9,((7.7,8.8),(5.5,6.6)))));
+Final quartet score is: 4848
+Final normalized quartet score is: 0.9793939393939394
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1, 3.3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 2.2, 1.1, 3.3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 5.5, 6.6, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 5.5, 6.6, 8.8, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 7.7, 5.5, 6.6, 8.8, 9.9}
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617,((9.9,((7.7,8.8)1:1.6739764335716716,(5.5,6.6)1:2.367123614131617)1:0.9808292530117262)1:2.367123614131617,10.10)1:2.367123614131617));
+Weight calculation took 0.001567214 secs
+ASTRAL finished in 0.268 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep17_15genes
+All output trees will be *arbitrarily* rooted at 9.9
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [9.9, 8.8, 7.7, 5.5, 6.6, 10.10, 4.4, 3.3, 2.2, 1.1, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 51
+Number of Clusters after addition by distance: 51
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 51
+gradient0 in heuristiic: 51
+partitions formed in 0.13 secs
+Dynamic Programming starting after 0.13 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.005 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4824
+estimationFactor: 1.0261194029850746
+Sub-optimal score: 4824
+Total Number of elements weighted: 44
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9745454545454545
+Optimization score: 4824
+Optimal tree inferred in 0.157 secs.
+(8.8,(7.7,((5.5,6.6),(9.9,(10.10,(11.11,(4.4,(3.3,(2.2,1.1)))))))));
+Final quartet score is: 4824
+Final normalized quartet score is: 0.9745454545454545
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 3.3, 2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 3.3, 2.2, 1.1, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 4.4, 3.3, 2.2, 1.1, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 5.5, 6.6}
+(9.9,((10.10,(11.11,(4.4,(3.3,(2.2,1.1)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,((5.5,6.6)1:1.6739764335716716,(7.7,8.8)1:2.367123614131617)1:0.7576857016975165));
+Weight calculation took 8.7242E-4 secs
+ASTRAL finished in 0.229 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep18_15genes
+All output trees will be *arbitrarily* rooted at 2.2
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [2.2, 1.1, 3.3, 4.4, 9.9, 6.6, 5.5, 8.8, 7.7, 10.10, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 43
+Number of Clusters after addition by distance: 43
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 43
+gradient0 in heuristiic: 43
+partitions formed in 0.173 secs
+Dynamic Programming starting after 0.173 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.009 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4830
+estimationFactor: 1.0248447204968945
+Sub-optimal score: 4830
+Total Number of elements weighted: 37
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9757575757575757
+Optimization score: 4830
+Optimal tree inferred in 0.237 secs.
+(1.1,(2.2,(3.3,(4.4,(11.11,(10.10,(9.9,((6.6,5.5),(8.8,7.7)))))))));
+Final quartet score is: 4830
+Final normalized quartet score is: 0.9757575757575757
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 6.6, 5.5, 8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 6.6, 5.5, 8.8, 7.7, 10.10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 6.6, 5.5, 8.8, 7.7, 10.10, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 9.9, 6.6, 5.5, 8.8, 7.7, 10.10, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 4.4, 9.9, 6.6, 5.5, 8.8, 7.7, 10.10, 11.11}
+(2.2,((3.3,(4.4,(11.11,(10.10,(9.9,((6.6,5.5)1:2.367123614131617,(8.8,7.7)1:2.367123614131617)0.98:0.5753641449035618)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,1.1));
+Weight calculation took 7.44099E-4 secs
+ASTRAL finished in 0.317 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep19_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 3.3, 1.1, 2.2, 4.4, 9.9, 8.8, 7.7, 5.5, 6.6, 10.10]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 47
+Number of Clusters after addition by distance: 47
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 47
+gradient0 in heuristiic: 47
+partitions formed in 0.102 secs
+Dynamic Programming starting after 0.102 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.011 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4902
+estimationFactor: 1.0097919216646267
+Sub-optimal score: 4902
+Total Number of elements weighted: 42
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9903030303030304
+Optimization score: 4902
+Optimal tree inferred in 0.143 secs.
+(3.3,((1.1,2.2),(4.4,(11.11,(10.10,(9.9,((8.8,7.7),(5.5,6.6))))))));
+Final quartet score is: 4902
+Final normalized quartet score is: 0.9903030303030304
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 8.8, 7.7, 5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 8.8, 7.7, 5.5, 6.6, 10.10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 1.1, 2.2, 4.4}
+(11.11,((10.10,(9.9,((8.8,7.7)1:2.367123614131617,(5.5,6.6)1:2.367123614131617)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617,(4.4,((1.1,2.2)1:0.9808292530117262,3.3)1:2.367123614131617)1:2.367123614131617));
+Weight calculation took 0.001754053 secs
+ASTRAL finished in 0.22 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep2_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 9.9, 8.8, 7.7, 5.5, 6.6, 10.10, 4.4, 3.3, 2.2, 1.1]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 47
+Number of Clusters after addition by distance: 47
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 47
+gradient0 in heuristiic: 47
+partitions formed in 0.068 secs
+Dynamic Programming starting after 0.068 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4838
+estimationFactor: 1.0231500620090948
+Sub-optimal score: 4838
+Total Number of elements weighted: 42
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9773737373737373
+Optimization score: 4838
+Optimal tree inferred in 0.099 secs.
+(9.9,(((5.5,6.6),(8.8,7.7)),(10.10,(11.11,(4.4,(3.3,(2.2,1.1)))))));
+Final quartet score is: 4838
+Final normalized quartet score is: 0.9773737373737373
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 3.3, 2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 8.8, 7.7, 5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 8.8, 7.7, 5.5, 6.6, 10.10}
+(11.11,((4.4,(3.3,(2.2,1.1)0.98:0.5753641449035618)1:2.367123614131617)1:2.367123614131617,(10.10,(((5.5,6.6)1:2.367123614131617,(8.8,7.7)1:2.367123614131617)1:0.9808292530117262,9.9)1:2.367123614131617)1:2.367123614131617));
+Weight calculation took 8.018E-4 secs
+ASTRAL finished in 0.206 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep20_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 4.4, 3.3, 2.2, 1.1, 10.10, 5.5, 6.6, 8.8, 7.7, 9.9]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 47
+Number of Clusters after addition by distance: 47
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 47
+gradient0 in heuristiic: 47
+partitions formed in 0.072 secs
+Dynamic Programming starting after 0.072 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4888
+estimationFactor: 1.012684124386252
+Sub-optimal score: 4888
+Total Number of elements weighted: 42
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9874747474747475
+Optimization score: 4888
+Optimal tree inferred in 0.099 secs.
+(4.4,((3.3,(2.2,1.1)),(11.11,(10.10,(9.9,((5.5,6.6),(8.8,7.7)))))));
+Final quartet score is: 4888
+Final normalized quartet score is: 0.9874747474747475
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6, 8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6, 8.8, 7.7, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 5.5, 6.6, 8.8, 7.7, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 3.3, 2.2, 1.1}
+(11.11,((10.10,(9.9,((5.5,6.6)1:2.367123614131617,(8.8,7.7)1:1.6739764335716716)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617,((3.3,(2.2,1.1)1:0.9808292530117262)1:2.367123614131617,4.4)1:2.367123614131617));
+Weight calculation took 8.04553E-4 secs
+ASTRAL finished in 0.236 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep3_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 2.2, 1.1, 3.3, 4.4, 10.10, 9.9, 6.6, 5.5, 7.7, 8.8]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 45
+Number of Clusters after addition by distance: 45
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 45
+gradient0 in heuristiic: 45
+partitions formed in 0.127 secs
+Dynamic Programming starting after 0.127 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.022 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4926
+estimationFactor: 1.004872107186358
+Sub-optimal score: 4926
+Total Number of elements weighted: 39
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9951515151515151
+Optimization score: 4926
+Optimal tree inferred in 0.186 secs.
+(2.2,(1.1,(3.3,(4.4,(11.11,(10.10,(9.9,((6.6,5.5),(7.7,8.8)))))))));
+Final quartet score is: 4926
+Final normalized quartet score is: 0.9951515151515151
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 6.6, 5.5, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 9.9, 6.6, 5.5, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1, 3.3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1, 3.3, 4.4}
+(11.11,((10.10,(9.9,((6.6,5.5)1:2.367123614131617,(7.7,8.8)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(4.4,(3.3,(1.1,2.2)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617));
+Weight calculation took 6.69196E-4 secs
+ASTRAL finished in 0.273 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep4_15genes
+All output trees will be *arbitrarily* rooted at 10.10
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [10.10, 5.5, 6.6, 7.7, 8.8, 9.9, 2.2, 3.3, 1.1, 4.4, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 45
+Number of Clusters after addition by distance: 45
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 45
+gradient0 in heuristiic: 45
+partitions formed in 0.115 secs
+Dynamic Programming starting after 0.115 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4886
+estimationFactor: 1.013098649201801
+Sub-optimal score: 4886
+Total Number of elements weighted: 38
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9870707070707071
+Optimization score: 4886
+Optimal tree inferred in 0.153 secs.
+(5.5,(6.6,((7.7,8.8),(9.9,(10.10,(11.11,(4.4,(3.3,(2.2,1.1)))))))));
+Final quartet score is: 4886
+Final normalized quartet score is: 0.9870707070707071
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 3.3, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 3.3, 1.1, 4.4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 3.3, 1.1, 4.4, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6, 7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6, 7.7, 8.8, 9.9}
+(10.10,((11.11,(4.4,(3.3,(2.2,1.1)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(9.9,((7.7,8.8)1:2.367123614131617,(6.6,5.5)1:2.367123614131617)1:1.2685113254635072)1:2.367123614131617));
+Weight calculation took 6.92675E-4 secs
+ASTRAL finished in 0.21 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep5_15genes
+All output trees will be *arbitrarily* rooted at 4.4
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [4.4, 2.2, 1.1, 3.3, 10.10, 9.9, 8.8, 7.7, 5.5, 6.6, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 43
+Number of Clusters after addition by distance: 43
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 43
+gradient0 in heuristiic: 43
+partitions formed in 0.126 secs
+Dynamic Programming starting after 0.126 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4934
+estimationFactor: 1.0032428050263478
+Sub-optimal score: 4934
+Total Number of elements weighted: 37
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9967676767676767
+Optimization score: 4934
+Optimal tree inferred in 0.151 secs.
+(2.2,(1.1,(3.3,(4.4,(11.11,(10.10,(9.9,((8.8,7.7),(5.5,6.6)))))))));
+Final quartet score is: 4934
+Final normalized quartet score is: 0.9967676767676767
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 8.8, 7.7, 5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 9.9, 8.8, 7.7, 5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 9.9, 8.8, 7.7, 5.5, 6.6, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1, 3.3}
+(4.4,((11.11,(10.10,(9.9,((8.8,7.7)1:2.367123614131617,(5.5,6.6)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(3.3,(1.1,2.2)1:1.2685113254635072)1:2.367123614131617));
+Weight calculation took 6.07018E-4 secs
+ASTRAL finished in 0.206 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep6_15genes
+All output trees will be *arbitrarily* rooted at 10.10
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [10.10, 7.7, 8.8, 5.5, 6.6, 9.9, 4.4, 2.2, 1.1, 3.3, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 55
+Number of Clusters after addition by distance: 55
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 55
+gradient0 in heuristiic: 55
+partitions formed in 0.186 secs
+Dynamic Programming starting after 0.186 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.015 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4788
+estimationFactor: 1.0338345864661653
+Sub-optimal score: 4788
+Total Number of elements weighted: 48
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9672727272727273
+Optimization score: 4788
+Optimal tree inferred in 0.243 secs.
+(7.7,(8.8,((5.5,6.6),(9.9,(10.10,(11.11,(4.4,(3.3,(2.2,1.1)))))))));
+Final quartet score is: 4788
+Final normalized quartet score is: 0.9672727272727273
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1, 3.3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 2.2, 1.1, 3.3}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 2.2, 1.1, 3.3, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8, 5.5, 6.6}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8, 5.5, 6.6, 9.9}
+(10.10,((11.11,(4.4,(3.3,(2.2,1.1)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(9.9,((5.5,6.6)1:1.6739764335716716,(8.8,7.7)1:1.2685113254635072)1:0.7576857016975165)1:2.367123614131617));
+Weight calculation took 0.001176312 secs
+ASTRAL finished in 0.302 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep7_15genes
+All output trees will be *arbitrarily* rooted at 5.5
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [5.5, 6.6, 7.7, 8.8, 9.9, 10.10, 4.4, 3.3, 1.1, 2.2, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 49
+Number of Clusters after addition by distance: 49
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 49
+gradient0 in heuristiic: 49
+partitions formed in 0.149 secs
+Dynamic Programming starting after 0.149 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.01 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4862
+estimationFactor: 1.0180995475113122
+Sub-optimal score: 4862
+Total Number of elements weighted: 42
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9822222222222222
+Optimization score: 4862
+Optimal tree inferred in 0.206 secs.
+(6.6,(5.5,((7.7,8.8),(9.9,(10.10,(11.11,(4.4,(3.3,(1.1,2.2)))))))));
+Final quartet score is: 4862
+Final normalized quartet score is: 0.9822222222222222
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 3.3, 1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 3.3, 1.1, 2.2, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 4.4, 3.3, 1.1, 2.2, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9.9, 10.10, 4.4, 3.3, 1.1, 2.2, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8, 9.9, 10.10, 4.4, 3.3, 1.1, 2.2, 11.11}
+(5.5,(((7.7,8.8)1:2.367123614131617,(9.9,(10.10,(11.11,(4.4,(3.3,(1.1,2.2)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:0.9808292530117262)1:2.367123614131617,6.6));
+Weight calculation took 0.001100947 secs
+ASTRAL finished in 0.298 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep8_15genes
+All output trees will be *arbitrarily* rooted at 9.9
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [9.9, 6.6, 5.5, 7.7, 8.8, 10.10, 1.1, 3.3, 2.2, 4.4, 11.11]
+Taxon occupancy: {7.7=15, 8.8=15, 9.9=15, 1.1=15, 2.2=15, 10.10=15, 11.11=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 49
+Number of Clusters after addition by distance: 49
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 49
+gradient0 in heuristiic: 49
+partitions formed in 0.148 secs
+Dynamic Programming starting after 0.148 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.013 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4846
+estimationFactor: 1.0214609987618655
+Sub-optimal score: 4846
+Total Number of elements weighted: 42
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.978989898989899
+Optimization score: 4846
+Optimal tree inferred in 0.182 secs.
+(6.6,(5.5,((7.7,8.8),(9.9,(10.10,(11.11,(4.4,(3.3,(1.1,2.2)))))))));
+Final quartet score is: 4846
+Final normalized quartet score is: 0.978989898989899
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 3.3, 2.2}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 3.3, 2.2, 4.4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{1.1, 3.3, 2.2, 4.4, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10.10, 1.1, 3.3, 2.2, 4.4, 11.11}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7.7, 8.8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5, 7.7, 8.8}
+(9.9,((10.10,(11.11,(4.4,(3.3,(1.1,2.2)1:0.7576857016975165)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,((7.7,8.8)1:2.367123614131617,(5.5,6.6)1:2.367123614131617)1:0.9808292530117262));
+Weight calculation took 9.26267E-4 secs
+ASTRAL finished in 0.262 secs
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep9_15genes
+All output trees will be *arbitrarily* rooted at 11.11
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [11.11, 4.4, 3.3, 2.2, 1.1, 8.8, 7.7, 6.6, 5.5, 9.9, 10.10]
+Taxon occupancy: {7.7=15, 8.8=15, 1.1=15, 9.9=15, 2.2=15, 11.11=15, 10.10=15, 3.3=15, 4.4=15, 5.5=15, 6.6=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 45
+Number of Clusters after addition by distance: 45
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 45
+gradient0 in heuristiic: 45
+partitions formed in 0.079 secs
+Dynamic Programming starting after 0.079 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.004 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4894
+estimationFactor: 1.0114425827543931
+Sub-optimal score: 4894
+Total Number of elements weighted: 40
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.9886868686868687
+Optimization score: 4894
+Optimal tree inferred in 0.125 secs.
+(4.4,((3.3,(2.2,1.1)),(11.11,(10.10,(9.9,((8.8,7.7),(6.6,5.5)))))));
+Final quartet score is: 4894
+Final normalized quartet score is: 0.9886868686868687
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 6.6, 5.5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 6.6, 5.5, 9.9}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{8.8, 7.7, 6.6, 5.5, 9.9, 10.10}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{3.3, 2.2, 1.1}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{4.4, 3.3, 2.2, 1.1}
+(11.11,((10.10,(9.9,((8.8,7.7)1:2.367123614131617,(6.6,5.5)1:2.367123614131617)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617,((3.3,(2.2,1.1)1:1.6739764335716716)1:2.367123614131617,4.4)1:2.367123614131617));
+Weight calculation took 6.75566E-4 secs
+ASTRAL finished in 0.263 secs
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617,(10.10,(((7.7,8.8)1:2.367123614131617,(6.6,5.5)1:2.367123614131617)1:1.2685113254635072,9.9)1:2.367123614131617)1:2.367123614131617)); 
+(3.3,((4.4,(11.11,(10.10,(9.9,((8.8,7.7)1:2.367123614131617,(6.6,5.5)1:2.367123614131617)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(1.1,2.2)1:2.367123614131617)); 
+(3.3,((4.4,(11.11,(10.10,(9.9,((8.8,7.7),(6.6,5.5)))))),(1.1,2.2)));
+(2.2,((3.3,(4.4,(11.11,(10.10,(9.9,((5.5,6.6)1:2.367123614131617,(7.7,8.8)1:2.367123614131617)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:1.6739764335716716,1.1)); 
+(2.2,((3.3,(4.4,(11.11,(10.10,(9.9,((5.5,6.6),(7.7,8.8))))))),1.1));
+(11.11,((4.4,(3.3,(1.1,2.2)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617,((9.9,((7.7,8.8)1:2.367123614131617,(6.6,5.5)1:1.6739764335716716)1:0.7576857016975165)1:2.367123614131617,10.10)1:2.367123614131617)); 
+(11.11,((4.4,(3.3,(1.1,2.2))),((9.9,((7.7,8.8),(6.6,5.5))),10.10)));
+(11.11,((4.4,(3.3,(2.2,1.1)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617,(10.10,(9.9,((6.6,5.5)1:2.367123614131617,(8.8,7.7)1:2.367123614131617)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617)); 
+(11.11,((4.4,(3.3,(2.2,1.1))),(10.10,(9.9,((6.6,5.5),(8.8,7.7))))));
+(4.4,((11.11,(10.10,(9.9,((8.8,7.7)1:2.367123614131617,(6.6,5.5)1:1.6739764335716716)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(3.3,(2.2,1.1)1:2.367123614131617)1:2.367123614131617)); 
+(4.4,((11.11,(10.10,(9.9,((8.8,7.7),(6.6,5.5))))),(3.3,(2.2,1.1))));
+(3.3,((4.4,(11.11,(10.10,(9.9,((7.7,8.8)1:2.367123614131617,(6.6,5.5)1:1.6739764335716716)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(2.2,1.1)1:1.2685113254635072)); 
+(3.3,((4.4,(11.11,(10.10,(9.9,((7.7,8.8),(6.6,5.5)))))),(2.2,1.1)));
+(11.11,((4.4,(3.3,(2.2,1.1)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617,((9.9,((7.7,8.8)1:1.6739764335716716,(5.5,6.6)1:2.367123614131617)1:0.9808292530117262)1:2.367123614131617,10.10)1:2.367123614131617)); 
+(11.11,((4.4,(3.3,(2.2,1.1))),((9.9,((7.7,8.8),(5.5,6.6))),10.10)));
+(9.9,((10.10,(11.11,(4.4,(3.3,(2.2,1.1)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,((5.5,6.6)1:1.6739764335716716,(7.7,8.8)1:2.367123614131617)1:0.7576857016975165)); 
+(9.9,((10.10,(11.11,(4.4,(3.3,(2.2,1.1))))),((5.5,6.6),(7.7,8.8))));
+(2.2,((3.3,(4.4,(11.11,(10.10,(9.9,((6.6,5.5)1:2.367123614131617,(8.8,7.7)1:2.367123614131617)0.98:0.5753641449035618)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,1.1)); 
+(2.2,((3.3,(4.4,(11.11,(10.10,(9.9,((6.6,5.5),(8.8,7.7))))))),1.1));
+(11.11,((10.10,(9.9,((8.8,7.7)1:2.367123614131617,(5.5,6.6)1:2.367123614131617)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617,(4.4,((1.1,2.2)1:0.9808292530117262,3.3)1:2.367123614131617)1:2.367123614131617)); 
+(11.11,((10.10,(9.9,((8.8,7.7),(5.5,6.6)))),(4.4,((1.1,2.2),3.3))));
+(11.11,((4.4,(3.3,(2.2,1.1))),(10.10,(((7.7,8.8),(6.6,5.5)),9.9))));
+(11.11,((4.4,(3.3,(2.2,1.1)0.98:0.5753641449035618)1:2.367123614131617)1:2.367123614131617,(10.10,(((5.5,6.6)1:2.367123614131617,(8.8,7.7)1:2.367123614131617)1:0.9808292530117262,9.9)1:2.367123614131617)1:2.367123614131617)); 
+(11.11,((10.10,(9.9,((5.5,6.6)1:2.367123614131617,(8.8,7.7)1:1.6739764335716716)1:1.6739764335716716)1:2.367123614131617)1:2.367123614131617,((3.3,(2.2,1.1)1:0.9808292530117262)1:2.367123614131617,4.4)1:2.367123614131617)); 
+(11.11,((10.10,(9.9,((5.5,6.6),(8.8,7.7)))),((3.3,(2.2,1.1)),4.4)));
+(11.11,((4.4,(3.3,(2.2,1.1))),(10.10,(((5.5,6.6),(8.8,7.7)),9.9))));
+(11.11,((10.10,(9.9,((6.6,5.5)1:2.367123614131617,(7.7,8.8)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(4.4,(3.3,(1.1,2.2)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617)); 
+(11.11,((10.10,(9.9,((6.6,5.5),(7.7,8.8)))),(4.4,(3.3,(1.1,2.2)))));
+(10.10,((11.11,(4.4,(3.3,(2.2,1.1)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(9.9,((7.7,8.8)1:2.367123614131617,(6.6,5.5)1:2.367123614131617)1:1.2685113254635072)1:2.367123614131617)); 
+(10.10,((11.11,(4.4,(3.3,(2.2,1.1)))),(9.9,((7.7,8.8),(6.6,5.5)))));
+(4.4,((11.11,(10.10,(9.9,((8.8,7.7)1:2.367123614131617,(5.5,6.6)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(3.3,(1.1,2.2)1:1.2685113254635072)1:2.367123614131617)); 
+(4.4,((11.11,(10.10,(9.9,((8.8,7.7),(5.5,6.6))))),(3.3,(1.1,2.2))));
+(10.10,((11.11,(4.4,(3.3,(2.2,1.1)1:0.9808292530117262)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,(9.9,((5.5,6.6)1:1.6739764335716716,(8.8,7.7)1:1.2685113254635072)1:0.7576857016975165)1:2.367123614131617)); 
+(10.10,((11.11,(4.4,(3.3,(2.2,1.1)))),(9.9,((5.5,6.6),(8.8,7.7)))));
+(5.5,(((7.7,8.8)1:2.367123614131617,(9.9,(10.10,(11.11,(4.4,(3.3,(1.1,2.2)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:0.9808292530117262)1:2.367123614131617,6.6)); 
+(5.5,(((7.7,8.8),(9.9,(10.10,(11.11,(4.4,(3.3,(1.1,2.2))))))),6.6));
+(9.9,((10.10,(11.11,(4.4,(3.3,(1.1,2.2)1:0.7576857016975165)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617)1:2.367123614131617,((7.7,8.8)1:2.367123614131617,(5.5,6.6)1:2.367123614131617)1:0.9808292530117262)); 
+(9.9,((10.10,(11.11,(4.4,(3.3,(1.1,2.2))))),((7.7,8.8),(5.5,6.6))));
+(11.11,((10.10,(9.9,((8.8,7.7)1:2.367123614131617,(6.6,5.5)1:2.367123614131617)1:1.2685113254635072)1:2.367123614131617)1:2.367123614131617,((3.3,(2.2,1.1)1:1.6739764335716716)1:2.367123614131617,4.4)1:2.367123614131617)); 
+(11.11,((10.10,(9.9,((8.8,7.7),(6.6,5.5)))),((3.3,(2.2,1.1)),4.4)));

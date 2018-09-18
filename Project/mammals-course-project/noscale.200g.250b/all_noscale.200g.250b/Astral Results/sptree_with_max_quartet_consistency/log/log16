@@ -1,0 +1,67 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+200 trees read from Best.16
+All output trees will be *arbitrarily* rooted at GAL
+
+======== Running the main analysis
+Number of taxa: 37 (37 species)
+Taxa: [GAL, CHO, DAS, MON, MAC, ORN, PRO, LOX, ECH, SOR, RAT, MUS, TUP, CAL, PON, HOM, PAN, GOR, TAR, NEW, CAN, TUR, BOS, SUS, VIC, FEL, EQU, PTE, MYO, ERI, MIC, OTO, SPE, DIP, OCH, ORY, CAV]
+Taxon occupancy: {PTE=200, NEW=200, RAT=200, TAR=200, SPE=200, ORN=200, CHO=200, OTO=200, PRO=200, ORY=200, MYO=200, MIC=200, HOM=200, BOS=200, EQU=200, MUS=200, DIP=200, ECH=200, GOR=200, FEL=200, MON=200, MAC=200, TUP=200, PON=200, CAL=200, TUR=200, SUS=200, CAN=200, VIC=200, GAL=200, LOX=200, OCH=200, DAS=200, SOR=200, CAV=200, PAN=200, ERI=200}
+Number of gene trees: 200
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 2715
+Number of Clusters after addition by distance: 2715
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:975
+polytomy size limit : 6
+discarded polytomies:  [3, 3, 3, 3, 3, 3, 4, 4, 4, 5, 6]
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 2715
+Threshold 0.2:
+polytomy of size 5; rounds with additions with at least 5 support: 0; clusters: 2715
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 2715
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 2715
+Threshold 0.3333333333333333:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 2715
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 2715
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 2715
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 2715
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 2715
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 2715
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 2715
+max k is :0
+Number of Clusters after addition by greedy: 2715
+gradient0 in heuristiic: 2715
+partitions formed in 1.628 secs
+Dynamic Programming starting after 1.628 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 13209000
+Polytree building time: 0.144 seconds.
+Number of quartet trees in the gene trees: 13209000
+Size of largest cluster: 37
+Greedy score: 9273047
+estimationFactor: 1.4244508843748986
+Sub-optimal score: 10349118
+Total Number of elements weighted: 8525
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.812457642516466
+Optimization score: 10731753
+Optimal tree inferred in 2.745 secs.
+(CAV,((SPE,(DIP,(RAT,MUS))),((OCH,ORY),(TUP,(((MIC,OTO),(TAR,(CAL,(NEW,(PON,(GOR,(HOM,PAN))))))),((((GAL,ORN),(MON,MAC)),((CHO,DAS),(ECH,(PRO,LOX)))),((SOR,ERI),((PTE,MYO),(EQU,((CAN,FEL),(VIC,(SUS,(TUR,BOS)))))))))))));
+Final quartet score is: 10731753
+Final normalized quartet score is: 0.812457642516466
+(GAL,(ORN,((MON,MAC)1:1.2123752609370435,(((CHO,DAS)1:2.4286815071310492,(ECH,(PRO,LOX)1:0.9952731297648001)1:1.1702656123328943)0.96:0.11656775628392546,(((SOR,ERI)1:0.17192799626669167,((PTE,MYO)1:0.7060228949199895,(EQU,((CAN,FEL)1:1.8996910934852926,(VIC,(SUS,(TUR,BOS)1:0.5913928080422078)0.99:0.15792683415200043)1:1.6659309949640735)0.67:0.05005028614795351)0.78:0.07398838496854253)1:0.3226333058534246)1:1.1747834750086867,(((MIC,OTO)1:1.1741153617825852,(TAR,(CAL,(NEW,(PON,(GOR,(HOM,PAN)1:0.4198347595874991)1:1.2223065877898693)1:1.525527836193322)1:0.2189246109002159)1:0.7454359951889977)1:0.1972512149061847)1:0.9456178512014622,(TUP,((OCH,ORY)1:1.7681595538871815,((SPE,(DIP,(RAT,MUS)1:1.9534008207844709)0.99:0.15832415883771223)0.78:0.06794398146595913,CAV)1:0.43284205724861663)1:0.44517796498969964)0.48:0.02200049214745347)1:1.062811169547795)1:0.5808116852459707)1:0.43162384690879596)0.37:0.005783312598334904));
+Weight calculation took 0.762855447 secs
+ASTRAL finished in 3.21 secs

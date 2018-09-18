@@ -1,0 +1,38 @@
+
+--------------mammalian dataset------------
+
+Phylonet:
+
+infer_ST_noscale.25g.500b -> infer_st -m mdc -i Best.1 -o R1_res
+
+deepcoal_count_noscale.25g.500b -> deep_coal_count species-tree-file gene-trees-file>output_file
+
+Astral:
+
+quartet_count_from_gt_consistent_with _sptree -> -q <species tree to be scored> -i <gene trees> -o <output-file> 2> <log-file>
+
+sptree_with_max_quartet_consistency -> -i <gene trees> -o <output species tree>
+
+-------------11 Taxon dataset---------------
+
+Phylonet:
+
+deepcoal_count_model_tree_trimmed_estimated_genetrees_strongILS -> deep_coal_count species-tree-file gene-trees-file>output_file
+
+infer_ST_estimated_genetrees_strongILS -> infer_st -m mdc -x -i INPUT-GENE-TREE-FILE -o OUTPUT-FILE
+
+Astral:
+
+quartet_count_from_gt_consistent_with _sptree -> -q <species tree to be scored> -i <gene trees> -o <output-file> 2> <log-file>
+
+sptree_with_max_quartet_consistency -> -i <gene trees> -o <output species tree>
+
+---------------------------------------
+EL scores are generated from infer_ST_* folders (phylonet) and 
+Quartet scores are generated from sptree_with_max_quartet_consistency folders (Astral)
+
+
+
+
+
+

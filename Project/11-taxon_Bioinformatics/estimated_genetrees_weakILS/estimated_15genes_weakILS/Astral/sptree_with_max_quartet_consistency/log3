@@ -1,0 +1,72 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+15 trees read from Rep3_15genes
+All output trees will be *arbitrarily* rooted at 2
+
+======== Running the main analysis
+Number of taxa: 11 (11 species)
+Taxa: [2, 11, 10, 9, 6, 5, 7, 8, 4, 3, 1]
+Taxon occupancy: {11=15, 1=15, 2=15, 3=15, 4=15, 5=15, 6=15, 7=15, 8=15, 9=15, 10=15}
+Number of gene trees: 15
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 97
+Number of Clusters after addition by distance: 97
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:325
+polytomy size limit : 3
+discarded polytomies:  []
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+Threshold 0.3333333333333333:
+max k is :0
+Number of Clusters after addition by greedy: 97
+gradient0 in heuristiic: 97
+partitions formed in 0.137 secs
+Dynamic Programming starting after 0.137 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 4950
+Polytree building time: 0.006 seconds.
+Number of quartet trees in the gene trees: 4950
+Size of largest cluster: 11
+Greedy score: 4107
+estimationFactor: 1.2052593133674214
+Sub-optimal score: 4107
+Total Number of elements weighted: 114
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.8296969696969697
+Optimization score: 4107
+Optimal tree inferred in 0.18 secs.
+(11,((4,(3,(2,1))),(10,(9,((6,5),(7,8))))));
+Final quartet score is: 4107
+Final normalized quartet score is: 0.8296969696969697
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{9, 6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{10, 9, 6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 9, 6, 5, 7, 8}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 9, 6, 5, 7, 8, 4}
+You may want to ignore posterior probabilities and other statistics related to the following branch branch because the effective number of genes impacting it is only 15:
+	{11, 10, 9, 6, 5, 7, 8, 4, 3}
+(2,(1,(3,(4,((10,(9,((6,5)0.95:0.4628861614768718,(7,8)1:0.7866732385707687)0.77:0.23197146543777514)1:0.7985076962177715)1:1.3024128771391879,11)1:1.9252908618525777)0.98:0.5518336474933678)0.57:0.14250006260728304));
+Weight calculation took 0.003479218 secs
+ASTRAL finished in 0.262 secs

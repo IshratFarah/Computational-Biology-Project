@@ -1,0 +1,59 @@
+1. Reading trees in 0.055 secs
+Optimal tree inferred in 1.011 secs
+
+2. Reading trees in 0.014 secs
+Optimal tree inferred in 0.833 secs
+
+3. Reading trees in 0.018 secs
+Optimal tree inferred in 0.387 secs
+
+4. Reading trees in 0.016 secs
+Optimal tree inferred in 0.822 secs
+
+5. Reading trees in 0.02 secs
+Optimal tree inferred in 0.373 secs
+
+6. Reading trees in 0.015 secs
+Optimal tree inferred in 1.608 secs
+
+7. Reading trees in 0.017 secs
+Optimal tree inferred in 1.61 secs
+
+8. Reading trees in 0.016 secs
+Optimal tree inferred in 1.695 secs
+
+9. Reading trees in 0.017 secs
+Optimal tree inferred in 0.72 secs
+
+10. Reading trees in 0.016 secs
+Optimal tree inferred in 0.727 secs
+
+11. Reading trees in 0.019 secs
+Optimal tree inferred in 0.736 secs
+
+12. Reading trees in 0.021 secs
+Optimal tree inferred in 0.763 secs
+
+13. Reading trees in 0.017 secs
+Optimal tree inferred in 0.736 secs
+
+14. Reading trees in 0.021 secs
+Optimal tree inferred in 0.707 secs
+
+15. Reading trees in 0.019 secs
+Optimal tree inferred in 0.74 secs
+
+16. Reading trees in 0.016 secs
+Optimal tree inferred in 2.224 secs
+
+17. Reading trees in 0.021 secs
+Optimal tree inferred in 1.649 secs
+
+18. Reading trees in 0.02 secs
+Optimal tree inferred in 0.363 secs
+
+19. Reading trees in 0.022 secs
+Optimal tree inferred in 1.652 secs
+
+20. Reading trees in 0.019 secs
+Optimal tree inferred in 1.563 secs

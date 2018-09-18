@@ -1,0 +1,63 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+100 trees read from Best.17
+All output trees will be *arbitrarily* rooted at GAL
+
+======== Running the main analysis
+Number of taxa: 37 (37 species)
+Taxa: [GAL, MON, MAC, ORN, SOR, CAN, EQU, FEL, BOS, SUS, VIC, TUR, ERI, MYO, PTE, PON, GOR, PAN, HOM, CAL, NEW, OTO, MIC, TAR, OCH, TUP, RAT, MUS, SPE, DIP, ORY, CAV, DAS, CHO, LOX, PRO, ECH]
+Taxon occupancy: {PTE=100, NEW=100, TAR=100, RAT=100, SPE=100, ORN=100, OTO=100, CHO=100, PRO=100, ORY=100, MYO=100, MIC=100, BOS=100, HOM=100, EQU=100, MUS=100, DIP=100, GOR=100, ECH=100, FEL=100, MON=100, MAC=100, PON=100, TUP=100, CAL=100, SUS=100, TUR=100, CAN=100, VIC=100, GAL=100, LOX=100, OCH=100, SOR=100, DAS=100, CAV=100, PAN=100, ERI=100}
+Number of gene trees: 100
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 1155
+Number of Clusters after addition by distance: 1155
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:975
+polytomy size limit : 6
+discarded polytomies:  [3, 3, 3, 3, 3, 3, 6]
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1155
+Threshold 0.3333333333333333:
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1155
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1155
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1155
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 1155
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1155
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1155
+max k is :0
+Number of Clusters after addition by greedy: 1155
+gradient0 in heuristiic: 1155
+partitions formed in 0.859 secs
+Dynamic Programming starting after 0.859 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 6604500
+Polytree building time: 0.106 seconds.
+Number of quartet trees in the gene trees: 6604500
+Size of largest cluster: 37
+Greedy score: 5230287
+estimationFactor: 1.2627414136164994
+Sub-optimal score: 5662342
+Total Number of elements weighted: 2366
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.85989976531153
+Optimization score: 5679208
+Optimal tree inferred in 1.268 secs.
+(NEW,((PON,(GOR,(PAN,HOM))),(CAL,(TAR,((OTO,MIC),((TUP,((OCH,ORY),(CAV,(SPE,(DIP,(RAT,MUS)))))),(((ECH,(LOX,PRO)),((DAS,CHO),((MON,MAC),(GAL,ORN)))),((SOR,ERI),((MYO,PTE),(EQU,((CAN,FEL),(VIC,(SUS,(BOS,TUR))))))))))))));
+Final quartet score is: 5679208
+Final normalized quartet score is: 0.85989976531153
+(GAL,(ORN,((MON,MAC)1:1.6435412287752653,((DAS,CHO)1:4.209655408733094,((ECH,(LOX,PRO)1:1.4370666864933137)1:1.682974836699458,(((SOR,ERI)1:0.23582195896163338,((MYO,PTE)1:0.8077779862422839,(EQU,((CAN,FEL)1:1.8073709555159616,(VIC,(SUS,(BOS,TUR)1:0.45050938482647085)1:0.3492447278435545)1:2.356217687836632)0.46:0.03321895779252231)0.96:0.16561256917624978)1:0.3869140877611079)1:1.3345287780969832,((TUP,((OCH,ORY)1:2.305559810110787,(CAV,(SPE,(DIP,(RAT,MUS)1:2.4178959395050392)0.99:0.22067136216882063)0.76:0.09588274467841175)1:0.6094933314538882)1:0.5788983217566515)0.63:0.060855229498166095,((OTO,MIC)1:1.5111746586470345,(TAR,(CAL,((PON,(GOR,(PAN,HOM)1:0.5720692490067092)1:1.6069657232887113)1:1.5283485326063957,NEW)1:0.27862072756467654)1:0.7176021976159948)0.93:0.1641010106804264)1:1.0137558131413464)1:1.3964972491154544)1:1.1146909853217475)0.41:0.018333586638676853)1:0.6847190476617055)0.67:0.07013470868211866));
+Weight calculation took 0.193343026 secs
+ASTRAL finished in 1.543 secs

@@ -1,0 +1,62 @@
+
+************* Phylonet Commands **************
+
+for 11 taxon:
+
+1. java -jar /home/farah/PhyloNet/phylonet_v2_4/phylonet_v2_4.jar infer_st -m mdc -x -i INPUT-GENE-TREE-FILE -o OUTPUT-FILE
+
+2. java -jar /home/farah/PhyloNet/phylonet_v2_4/phylonet_v2_4.jar deep_coal_count species-tree-file gene-trees-file>output_file
+
+mammalian:
+
+1. java -jar /home/farah/PhyloNet/phylonet_v2_4/phylonet_v2_4.jar infer_st -m mdc -i Best.1 -o R1_res
+
+2. java -jar /home/farah/PhyloNet/phylonet_v2_4/phylonet_v2_4.jar deep_coal_count species-tree-file gene-trees-file>output_file
+
+
+command to copy files of multiple folders to a single folder
+cp -r source_folders/* destination_folder_name
+
+
+path to Astral:
+/home/farah/Downloads/ASTRAL-master/Astral.5.5.12/Astral/astral.5.5.12.jar
+
+path to Phylonet: 
+/home/farah/PhyloNet/phylonet_v2_4/phylonet_v2_4.jar
+
+
+*************** Astral Commands *****************
+
+1. java -jar astral.5.5.11.jar -q <species tree to be scored> -i <gene trees> -o <output-file> 2> <log-file>
+
+11taxon:
+java -jar /home/farah/Downloads/ASTRAL-master/Astral.5.5.12/Astral/astral.5.5.12.jar -q model_tree -i simtrees_1 -o Res1 2> log1
+
+mammalian:
+java -jar /home/farah/Downloads/ASTRAL-master/Astral.5.5.12/Astral/astral.5.5.12.jar -q /home/farah/Project/mammals-course-project/true.tree -i Best.1 -o Res1 2> log1
+
+
+
+2. java -jar astral.5.5.11.jar -i <gene trees> -o <output species tree>
+
+e.g.
+java -jar /home/farah/Downloads/ASTRAL-master/Astral.5.5.12/Astral/astral.5.5.12.jar -i Best.1 -o SP1 2> log1
+
+FN Rate calculate
+
+getFpFn.py -t <model-tree> -e <estimated-tree>
+
+e.g.
+
+getFpFn.py -t /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/model_tree_trimmed -e /home/farah/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/Phylonet_Results/infer_ST_estimated_genetrees_strongILS/Rep1_result_stripped
+
+calculating average:
+perl /home/farah/Downloads/calculate_average_new.pl <file containing the scores>
+
+Moving all EL file to another directory:
+mv R*_EL \#Extra\ Lineage/
+
+
+
+
+

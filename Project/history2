@@ -1,0 +1,237 @@
+    1  ping www.google.com
+    2  sudo apt-get install git
+    3  cd Desktop/Install/
+    4  ls
+    5  git clone https://github.com/Muktadirul/Linux-Installer
+    6  ls
+    7  cd Linux-Installer/
+    8  ls
+    9  cd ..
+   10  git clone https://github.com/Muktadirul/Linux-Installer
+   11  rm -fr *
+   12  ls
+   13  git clone https://github.com/Muktadirul/Linux-Installer
+   14  ping www.google.com
+   15  sh Config\ Ubuntu.sh 
+   16  sudo apt-get install hardinfo 
+   17  sudo reboot 
+   18  sudo apt-get install hardinfo 
+   19  ls
+   20  tar paup4a161_ubuntu64.gz
+   21  tar -xzf paup4a161_ubuntu64.gz
+   22  sudo apt-get install python-dev build-essential libmysqlclient-dev
+   23  wget https://raw.githubusercontent.com/AlexSafatli/Pylogeny/master/install-pll.sh -O - | sh
+   24  pip install pylogeny
+   25  sudo apt install python-pip
+   26  pip install pylogeny
+   27  pip install --upgrade pip
+   28  cat>a.py
+   29  python
+   30  python a.py
+   31  clear
+   32  python a.py
+   33  clear
+   34  python a.py
+   35  clear
+   36  python a.py
+   37  python a.py>o1.txt
+   38  python a.py>o2.txt
+   39  python a.py>o3.txt
+   40  o1.txt -l
+   41  wc -l o1.txt
+   42  wc -l o2.txt
+   43  python a.py>o3.txt
+   44  bash mammal_avg_EL.sh 
+   45  path
+   46  pwd
+   47  cat all_*/Phylonet Results/deepcoal_count_*/R1_res
+   48  cat all_*/Phylonet\ /Results/deepcoal_count_*/R1_res
+   49  cat all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   50  clear
+   51  cat all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   52  cat */all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   53  bash mammal_avg_EL.sh 
+   54  cat all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   55  cat */all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   56  bash mammal_avg_EL.sh 
+   57  };do tail -1 print R$((i))_res;done); done
+   58  cat */all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   59  clear
+   60  for d in */all_*/Phylonet\ Results/deepcoal_count_*/ ;do (cd $d && cat R1_res); done
+   61  cat */all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   62  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   63  cat EL_*>>EL
+   64  perl /home/farah/Downloads/calculate_average_new.pl EL
+   65  cat EL
+   66  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   67  cat EL_*>>EL
+   68  perl /home/farah/Downloads/calculate_average_new.pl EL
+   69  cat EL
+   70  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   71  cat EL_*>>EL
+   72  perl /home/farah/Downloads/calculate_average_new.pl EL
+   73  cat EL
+   74  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   75  cat EL_*>>EL
+   76  perl /home/farah/Downloads/calculate_average_new.pl EL
+   77  cat EL
+   78  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   79  cat EL_*>>EL
+   80  perl /home/farah/Downloads/calculate_average_new.pl EL
+   81  cat EL
+   82  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   83  cat EL_*>>EL
+   84  perl /home/farah/Downloads/calculate_average_new.pl EL
+   85  cat EL
+   86  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   87  cat EL_*>>EL
+   88  perl /home/farah/Downloads/calculate_average_new.pl EL
+   89  cat EL
+   90  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   91  cat EL_*>>EL
+   92  perl /home/farah/Downloads/calculate_average_new.pl EL
+   93  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   94  cat EL_*>>EL
+   95  perl /home/farah/Downloads/calculate_average_new.pl EL
+   96  cat EL
+   97  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   98  cat EL_*>>EL
+   99  perl /home/farah/Downloads/calculate_average_new.pl EL
+  100  cat EL
+  101  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+  102  cat EL_*>>EL
+  103  perl /home/farah/Downloads/calculate_average_new.pl EL
+  104  cat EL
+  105  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+  106  cat EL_*>>EL
+  107  perl /home/farah/Downloads/calculate_average_new.pl EL
+  108  cat EL
+  109  grep 'average value: *' 
+  110  grep 'average value: *' EL
+  111  grep -r 'average value: *' 
+  112  clear
+  113  find . -name 'EL' -exec grep -n GetTypes {} +
+  114  find . -name 'EL' -exec grep -n 'average value: *'
+  115  find . -name 'EL' -exec grep -n average value: {} +
+  116  find . -name 'EL' -exec grep --color -n average value: {} +
+  117  git 
+  118  git config --global user.name "Farah"
+  119  git config --global user.email "ishrat.tanzila.farah@gmail.com"
+  120  git config --list
+  121  git config user.email
+  122  git init
+  123  git add .
+  124  git commit -m "First commit"
+  125  git log --author="Farah"
+  126  git status
+  127  git log
+  128  git
+  129  git add .
+  130  git init
+  131  git add .
+  132  git commit -m "11 taxon complete graphs with analysis doc.(variation in number of genes i.e. 15,25,50,100 genes)"
+  133  git status
+  134  git log
+  135  git log --author="Farah"
+  136  git log
+  137  clear
+  138  git init
+  139  git add .
+  140  git status
+  141  git commit -m "11 taxon complete graph file copied to this folder"
+  142  git status
+  143  pwd
+  144  grep "average" */all_noscale*/Phylonet\ Results/deepcoal_count_*
+  145  grep -color "average" */all_noscale*/Phylonet\ Results/deepcoal_count_*
+  146  grep --color "average" */all_noscale*/Phylonet\ Results/deepcoal_count_*
+  147  clear
+  148  grep --color "average" */all_noscale*/Phylonet\ Results/deepcoal_count_*
+  149  grep --color "average" */all_*/Phylonet\ Results/deepcoal_count_*
+  150  grep --color "average" */all_*/Phylonet\ Results/deepcoal_count_*/EL
+  151  cat *>>QS
+  152  grep "Final quartet score is:" QS>>temp;cut -d ' ' -f5 temp>>QS
+  153  grep "Final quartet score is:" QS>>temp
+  154  cat QS
+  155  cat *>>QS_
+  156  grep "Final quartet score is:" QS_>>temp;cut -d ' ' -f5 temp>>QS
+  157  cat QS
+  158  perl /home/farah/Downloads/calculate_average_new.pl QS
+  159  cat QS
+  160  pwd
+  161  bash avg_QS_consistent\ with\ sptree.sh 
+  162  clear
+  163  bash avg_QS_consistent\ with\ sptree.sh 
+  164  grep "average" */all_*/Astral\ Results/quartet_count_from_gt_consistent_with\ _sptree/log/
+  165  grep --color "average" */all_*/Astral\ Results/quartet_count_from_gt_consistent_with\ _sptree/log/
+  166  grep --color "average" */all_*/Astral\ Results/quartet_count_from_gt_consistent_with\ _sptree/log/QS
+  167  git
+  168  git add .
+  169  git status
+  170  git commit -m "mammalian final graph added" 
+  171  git status
+  172  git log
+  173  grep --color  'average' EL_*
+  174  grep --color 'average' EL_*
+  175  grep --color 'average *' EL_*
+  176  cat EL_*
+  177  head -1 EL_*
+  178  head -1 EL_*|sort
+  179  head -1 EL_*
+  180  grep --color 'average' log*
+  181  grep --color 'average*' log*
+  182  grep --color "average" log*
+  183  grep "average" log*
+  184  grep "final" log*
+  185  grep "Final quartet score is:" log*
+  186  python
+  187  python SPR.py>>true_tree_neighbours
+  188  wc true_tree_neighbours 
+  189  wc -n true_tree_neighbours 
+  190  wc --help
+  191  wc -l true_tree_neighbours 
+  192  head -1 true_tree_neighbours 
+  193  bash split_neighbour_trees.sh 
+  194  rm neighbour*
+  195  clear
+  196  bash split_neighbour_trees.sh 
+  197  rm neighbour*
+  198  split -l 1 true_tree_neighbours neighbour
+  199  mv neighbour* neighbour
+  200  mv neighbour* true tree neighbours
+  201  ls
+  202  mv neighbour* true tree neighbours/
+  203  mv neighbour* true_tree_neighbour
+  204  mv --help
+  205  cd true_tree_neighbour/
+  206  clear
+  207  mv neighbour* neighbour
+  208  grep 'Final quartet score is' log*
+  209  grep 'Final quartet score is:' log*
+  210  git log
+  211  git init
+  212  git add.
+  213  git --help
+  214  git add .
+  215  git status
+  216  git --help
+  217  git commit -m 'trees selected for generating neighboring trees (in folder estimated_genetrees_strongILS/Untitled Folder). The trees are- 1. model tree trimmed (true tree), 2. Res_8_stripped_astral_max_25genes (tree having highest quartet score from astral 25 genes with max quartet consistency), 3. Res8_stripped_phylonet_infet_st_25genes (tree having second highest qs, i chose this one as i selected Res_8 from astral that is why also selected Res_8 from phylonet infer_st). 4. this tree should be selected from Astral-exact , but the tree needs to be generated as it is not saved in any folder, only excel results are available). this should also be selected from estimated strongILS 25 genes (preferably Res_8, but need to check the qs before the selection)' 
+  218  git status
+  219  git log
+  220  git status
+  221  git add .
+  222  git status
+  223  man rename
+  224  rename -n 's/\.php$/\.html/' *.phpa=1
+  225  for i in *.jpg; do   new=$(printf "%04d.jpg" "$a") #04 pad to length of 4;   mv -i -- "$i" "$new";   let a=a+1
+  226  find -name '*.jpg' | # find jpegs gawk 'BEGIN{ a=1 }{ printf "mv %s %04d.jpg\n", $0, a++ }' | # build mv command
+  227  find -name 'neighbour*'| gawk 'BEGIN{ a=1 }{ printf "mv %s %04d_true_tree\n", $0, a++ }' | bash
+  228  sudo apt install gawk
+  229  find -name 'neighbour*'| gawk 'BEGIN{ a=1 }{ printf "mv %s %04d_true_tree\n", $0, a++ }' | bash
+  230  find -name 'neighbour*'| gawk 'BEGIN{ a=1 }{ printf "mv %s %03d_true_tree\n", $0, a++ }' | bash
+  231  python SPR.py 
+  232  python SPR.py >output
+  233  wc -ln output 
+  234  wc -l output 
+  235  bash split_neighbour_trees.sh 
+  236  rm Astral*
+  237  history>>history

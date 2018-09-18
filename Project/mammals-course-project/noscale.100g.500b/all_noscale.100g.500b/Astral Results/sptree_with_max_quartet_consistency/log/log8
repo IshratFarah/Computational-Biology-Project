@@ -1,0 +1,63 @@
+
+================== ASTRAL ===================== 
+
+This is ASTRAL version 5.5.12
+Gene trees are treated as unrooted
+100 trees read from Best.8
+All output trees will be *arbitrarily* rooted at GAL
+
+======== Running the main analysis
+Number of taxa: 37 (37 species)
+Taxa: [GAL, ORN, MON, MAC, DAS, CHO, ECH, FEL, CAN, PTE, MYO, EQU, SUS, VIC, BOS, TUR, ERI, SOR, TUP, SPE, MUS, RAT, ORY, OCH, MIC, OTO, TAR, CAL, PON, GOR, PAN, HOM, NEW, CAV, DIP, LOX, PRO]
+Taxon occupancy: {PTE=100, NEW=100, RAT=100, TAR=100, SPE=100, ORN=100, CHO=100, OTO=100, PRO=100, ORY=100, MYO=100, MIC=100, BOS=100, HOM=100, EQU=100, MUS=100, DIP=100, ECH=100, GOR=100, FEL=100, MON=100, MAC=100, TUP=100, PON=100, CAL=100, SUS=100, TUR=100, CAN=100, VIC=100, GAL=100, LOX=100, OCH=100, DAS=100, SOR=100, CAV=100, PAN=100, ERI=100}
+Number of gene trees: 100
+0 trees have missing taxa
+Calculating quartet distance matrix (for completion of X)
+Species tree distances calculated ...
+Building set of clusters (X) from gene trees 
+------------------------------
+gradient0: 1339
+Number of Clusters after addition by distance: 1339
+calculating extra bipartitions to be added at level 1 ...
+Adding to X using resolutions of greedy consensus ...
+Limit for sigma of degrees:975
+polytomy size limit : 6
+discarded polytomies:  [3, 3, 3, 3, 3, 4, 6]
+Threshold 0.0:
+Threshold 0.01:
+Threshold 0.02:
+Threshold 0.05:
+Threshold 0.1:
+Threshold 0.2:
+polytomy of size 4; rounds with additions with at least 5 support: 0; clusters: 1339
+Threshold 0.3333333333333333:
+polytomy of size 6; rounds with additions with at least 5 support: 0; clusters: 1339
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1339
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1339
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1339
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1339
+polytomy of size 3; rounds with additions with at least 5 support: 0; clusters: 1339
+max k is :0
+Number of Clusters after addition by greedy: 1339
+gradient0 in heuristiic: 1339
+partitions formed in 0.838 secs
+Dynamic Programming starting after 0.838 secs
+Using tree-based weight calculation.
+Using polytree-based weight calculation.
+Polytree max score: 6604500
+Polytree building time: 0.063 seconds.
+Number of quartet trees in the gene trees: 6604500
+Size of largest cluster: 37
+Greedy score: 5045984
+estimationFactor: 1.308862651962432
+Sub-optimal score: 5568743
+Total Number of elements weighted: 3014
+Normalized score (portion of input quartet trees satisfied before correcting for multiple individuals): 0.8452919978802331
+Optimization score: 5582731
+Optimal tree inferred in 1.299 secs.
+(MUS,(RAT,(DIP,(CAV,(SPE,((ORY,OCH),(((MIC,OTO),(TAR,(CAL,(NEW,(PON,(GOR,(PAN,HOM))))))),(TUP,((((GAL,ORN),(MON,MAC)),((DAS,CHO),(ECH,(LOX,PRO)))),((ERI,SOR),((PTE,MYO),(EQU,((FEL,CAN),(VIC,(SUS,(BOS,TUR))))))))))))))));
+Final quartet score is: 5582731
+Final normalized quartet score is: 0.8452919978802331
+(GAL,(ORN,((MON,MAC)1:1.1826006640500633,(((DAS,CHO)1:2.710218391513322,(ECH,(LOX,PRO)1:1.2139231351791042)1:1.5594991860497878)0.88:0.12924678793996297,(((ERI,SOR)1:0.2765736522410429,((PTE,MYO)1:0.8190582289084659,(EQU,((FEL,CAN)1:2.2110129090626116,(VIC,(SUS,(BOS,TUR)1:0.7393344451727177)1:0.3089078541662002)1:1.9923237080977807)0.45:0.03501176144853928)0.88:0.12197986042855112)1:0.2647185186990311)1:1.2294571083787313,(TUP,(((MIC,OTO)1:1.3352839921833712,(TAR,(CAL,(NEW,(PON,(GOR,(PAN,HOM)1:0.36013378513424404)1:1.5016052076308848)1:1.3397462180677964)1:0.3367757001001152)1:0.7135519693169728)0.99:0.20856461044253133)1:0.9258584828591113,((ORY,OCH)1:1.9696551909306705,(SPE,(CAV,(DIP,(RAT,MUS)1:1.9070703157390496)1:0.314131402684984)0.43:0.028241600825419613)1:0.8762611304223026)1:0.8227573070823571)0.56:0.05026402204177077)1:1.2858627140769299)1:0.7957494627335601)1:0.9427379991308755)0.79:0.10476063561584158));
+Weight calculation took 0.260079026 secs
+ASTRAL finished in 1.612 secs

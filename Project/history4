@@ -1,0 +1,872 @@
+    1  ping www.google.com
+    2  sudo apt-get install git
+    3  cd Desktop/Install/
+    4  ls
+    5  git clone https://github.com/Muktadirul/Linux-Installer
+    6  ls
+    7  cd Linux-Installer/
+    8  ls
+    9  cd ..
+   10  git clone https://github.com/Muktadirul/Linux-Installer
+   11  rm -fr *
+   12  ls
+   13  git clone https://github.com/Muktadirul/Linux-Installer
+   14  ping www.google.com
+   15  sh Config\ Ubuntu.sh 
+   16  sudo apt-get install hardinfo 
+   17  sudo reboot 
+   18  sudo apt-get install hardinfo 
+   19  ls
+   20  tar paup4a161_ubuntu64.gz
+   21  tar -xzf paup4a161_ubuntu64.gz
+   22  sudo apt-get install python-dev build-essential libmysqlclient-dev
+   23  wget https://raw.githubusercontent.com/AlexSafatli/Pylogeny/master/install-pll.sh -O - | sh
+   24  pip install pylogeny
+   25  sudo apt install python-pip
+   26  pip install pylogeny
+   27  pip install --upgrade pip
+   28  cat>a.py
+   29  python
+   30  python a.py
+   31  clear
+   32  python a.py
+   33  clear
+   34  python a.py
+   35  clear
+   36  python a.py
+   37  python a.py>o1.txt
+   38  python a.py>o2.txt
+   39  python a.py>o3.txt
+   40  o1.txt -l
+   41  wc -l o1.txt
+   42  wc -l o2.txt
+   43  python a.py>o3.txt
+   44  bash mammal_avg_EL.sh 
+   45  path
+   46  pwd
+   47  cat all_*/Phylonet Results/deepcoal_count_*/R1_res
+   48  cat all_*/Phylonet\ /Results/deepcoal_count_*/R1_res
+   49  cat all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   50  clear
+   51  cat all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   52  cat */all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   53  bash mammal_avg_EL.sh 
+   54  cat all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   55  cat */all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   56  bash mammal_avg_EL.sh 
+   57  };do tail -1 print R$((i))_res;done); done
+   58  cat */all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   59  clear
+   60  for d in */all_*/Phylonet\ Results/deepcoal_count_*/ ;do (cd $d && cat R1_res); done
+   61  cat */all_*/Phylonet\ Results/deepcoal_count_*/R1_res
+   62  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   63  cat EL_*>>EL
+   64  perl /home/farah/Downloads/calculate_average_new.pl EL
+   65  cat EL
+   66  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   67  cat EL_*>>EL
+   68  perl /home/farah/Downloads/calculate_average_new.pl EL
+   69  cat EL
+   70  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   71  cat EL_*>>EL
+   72  perl /home/farah/Downloads/calculate_average_new.pl EL
+   73  cat EL
+   74  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   75  cat EL_*>>EL
+   76  perl /home/farah/Downloads/calculate_average_new.pl EL
+   77  cat EL
+   78  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   79  cat EL_*>>EL
+   80  perl /home/farah/Downloads/calculate_average_new.pl EL
+   81  cat EL
+   82  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   83  cat EL_*>>EL
+   84  perl /home/farah/Downloads/calculate_average_new.pl EL
+   85  cat EL
+   86  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   87  cat EL_*>>EL
+   88  perl /home/farah/Downloads/calculate_average_new.pl EL
+   89  cat EL
+   90  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   91  cat EL_*>>EL
+   92  perl /home/farah/Downloads/calculate_average_new.pl EL
+   93  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   94  cat EL_*>>EL
+   95  perl /home/farah/Downloads/calculate_average_new.pl EL
+   96  cat EL
+   97  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+   98  cat EL_*>>EL
+   99  perl /home/farah/Downloads/calculate_average_new.pl EL
+  100  cat EL
+  101  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+  102  cat EL_*>>EL
+  103  perl /home/farah/Downloads/calculate_average_new.pl EL
+  104  cat EL
+  105  for i in {1..20};do tail -1 R$((i))_res|awk '{print $NF}'>>EL_$((i));done
+  106  cat EL_*>>EL
+  107  perl /home/farah/Downloads/calculate_average_new.pl EL
+  108  cat EL
+  109  grep 'average value: *' 
+  110  grep 'average value: *' EL
+  111  grep -r 'average value: *' 
+  112  clear
+  113  find . -name 'EL' -exec grep -n GetTypes {} +
+  114  find . -name 'EL' -exec grep -n 'average value: *'
+  115  find . -name 'EL' -exec grep -n average value: {} +
+  116  find . -name 'EL' -exec grep --color -n average value: {} +
+  117  git 
+  118  git config --global user.name "Farah"
+  119  git config --global user.email "ishrat.tanzila.farah@gmail.com"
+  120  git config --list
+  121  git config user.email
+  122  git init
+  123  git add .
+  124  git commit -m "First commit"
+  125  git log --author="Farah"
+  126  git status
+  127  git log
+  128  git
+  129  git add .
+  130  git init
+  131  git add .
+  132  git commit -m "11 taxon complete graphs with analysis doc.(variation in number of genes i.e. 15,25,50,100 genes)"
+  133  git status
+  134  git log
+  135  git log --author="Farah"
+  136  git log
+  137  clear
+  138  git init
+  139  git add .
+  140  git status
+  141  git commit -m "11 taxon complete graph file copied to this folder"
+  142  git status
+  143  pwd
+  144  grep "average" */all_noscale*/Phylonet\ Results/deepcoal_count_*
+  145  grep -color "average" */all_noscale*/Phylonet\ Results/deepcoal_count_*
+  146  grep --color "average" */all_noscale*/Phylonet\ Results/deepcoal_count_*
+  147  clear
+  148  grep --color "average" */all_noscale*/Phylonet\ Results/deepcoal_count_*
+  149  grep --color "average" */all_*/Phylonet\ Results/deepcoal_count_*
+  150  grep --color "average" */all_*/Phylonet\ Results/deepcoal_count_*/EL
+  151  cat *>>QS
+  152  grep "Final quartet score is:" QS>>temp;cut -d ' ' -f5 temp>>QS
+  153  grep "Final quartet score is:" QS>>temp
+  154  cat QS
+  155  cat *>>QS_
+  156  grep "Final quartet score is:" QS_>>temp;cut -d ' ' -f5 temp>>QS
+  157  cat QS
+  158  perl /home/farah/Downloads/calculate_average_new.pl QS
+  159  cat QS
+  160  pwd
+  161  bash avg_QS_consistent\ with\ sptree.sh 
+  162  clear
+  163  bash avg_QS_consistent\ with\ sptree.sh 
+  164  grep "average" */all_*/Astral\ Results/quartet_count_from_gt_consistent_with\ _sptree/log/
+  165  grep --color "average" */all_*/Astral\ Results/quartet_count_from_gt_consistent_with\ _sptree/log/
+  166  grep --color "average" */all_*/Astral\ Results/quartet_count_from_gt_consistent_with\ _sptree/log/QS
+  167  git
+  168  git add .
+  169  git status
+  170  git commit -m "mammalian final graph added" 
+  171  git status
+  172  git log
+  173  grep --color  'average' EL_*
+  174  grep --color 'average' EL_*
+  175  grep --color 'average *' EL_*
+  176  cat EL_*
+  177  head -1 EL_*
+  178  head -1 EL_*|sort
+  179  head -1 EL_*
+  180  grep --color 'average' log*
+  181  grep --color 'average*' log*
+  182  grep --color "average" log*
+  183  grep "average" log*
+  184  grep "final" log*
+  185  grep "Final quartet score is:" log*
+  186  python
+  187  python SPR.py>>true_tree_neighbours
+  188  wc true_tree_neighbours 
+  189  wc -n true_tree_neighbours 
+  190  wc --help
+  191  wc -l true_tree_neighbours 
+  192  head -1 true_tree_neighbours 
+  193  bash split_neighbour_trees.sh 
+  194  rm neighbour*
+  195  clear
+  196  bash split_neighbour_trees.sh 
+  197  rm neighbour*
+  198  split -l 1 true_tree_neighbours neighbour
+  199  mv neighbour* neighbour
+  200  mv neighbour* true tree neighbours
+  201  ls
+  202  mv neighbour* true tree neighbours/
+  203  mv neighbour* true_tree_neighbour
+  204  mv --help
+  205  cd true_tree_neighbour/
+  206  clear
+  207  mv neighbour* neighbour
+  208  grep 'Final quartet score is' log*
+  209  grep 'Final quartet score is:' log*
+  210  git log
+  211  git init
+  212  git add.
+  213  git --help
+  214  git add .
+  215  git status
+  216  git --help
+  217  git commit -m 'trees selected for generating neighboring trees (in folder estimated_genetrees_strongILS/Untitled Folder). The trees are- 1. model tree trimmed (true tree), 2. Res_8_stripped_astral_max_25genes (tree having highest quartet score from astral 25 genes with max quartet consistency), 3. Res8_stripped_phylonet_infet_st_25genes (tree having second highest qs, i chose this one as i selected Res_8 from astral that is why also selected Res_8 from phylonet infer_st). 4. this tree should be selected from Astral-exact , but the tree needs to be generated as it is not saved in any folder, only excel results are available). this should also be selected from estimated strongILS 25 genes (preferably Res_8, but need to check the qs before the selection)' 
+  218  git status
+  219  git log
+  220  git status
+  221  git add .
+  222  git status
+  223  man rename
+  224  rename -n 's/\.php$/\.html/' *.phpa=1
+  225  for i in *.jpg; do   new=$(printf "%04d.jpg" "$a") #04 pad to length of 4;   mv -i -- "$i" "$new";   let a=a+1
+  226  find -name '*.jpg' | # find jpegs gawk 'BEGIN{ a=1 }{ printf "mv %s %04d.jpg\n", $0, a++ }' | # build mv command
+  227  find -name 'neighbour*'| gawk 'BEGIN{ a=1 }{ printf "mv %s %04d_true_tree\n", $0, a++ }' | bash
+  228  sudo apt install gawk
+  229  find -name 'neighbour*'| gawk 'BEGIN{ a=1 }{ printf "mv %s %04d_true_tree\n", $0, a++ }' | bash
+  230  find -name 'neighbour*'| gawk 'BEGIN{ a=1 }{ printf "mv %s %03d_true_tree\n", $0, a++ }' | bash
+  231  python SPR.py 
+  232  python SPR.py >output
+  233  wc -ln output 
+  234  wc -l output 
+  235  bash split_neighbour_trees.sh 
+  236  rm Astral*
+  237  history>>history
+  238  split -l 1 Astral_neighbour_* neighbour
+  239  for i in {1..288};do head -i Astral_neighbour_$((i))|tail -1>>Astral_neighbour$((i));done
+  240  rm Astral_neighbour*
+  241  for i in {1..288};do head -$i output|tail -1>>Astral_neighbour_$((i));done
+  242  cat Astral_neighbour_*
+  243  cat Astral_neighbour_1
+  244  cat Astral_neighbour_2
+  245  cat Astral_neighbour_5
+  246  python SPR.py 
+  247  python SPR.py >>output
+  248  wc -l output 
+  249  for i in {1..288};do head -$i output|tail -1>>Phylonet_neighbour_$((i));done
+  250  pwd
+  251  for i in {1..288};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  252  sudo apt install default-jre
+  253  for i in {1..288};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  254  sudo apt install openjdk-9-jre-headless
+  255  for i in {1..288};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  256  sudo apt-get install default-jdk
+  257  for i in {1..288};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  258  git log
+  259  git init
+  260  git add .
+  261  git status
+  262  git commit -m 'all neighbours generated. saved in 11 taxon/ estimated strong ILS / SPR neighbours folder' 
+  263  git status
+  264  git add 11 taxon final graph
+  265  git add 11\ taxon\ final\ graph
+  266  git status
+  267  git commit
+  268  git add 11\ taxon\ final\ graph
+  269  git commit
+  270  java
+  271  java jar
+  272  java -jar
+  273  for i in {1..288};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  274  for FILE in `ls`; do mv $FILE `echo $FILE | sed -e 's:^0*::'`; done
+  275  rm log*
+  276  for FILE in `ls`; do mv $FILE `echo $FILE | sed -e 's:^0*::'`; done
+  277  sudo add-apt-repository ppa:webupd8team/java
+  278  sudo apt update; sudo apt install oracle-java8-installer
+  279  javac -version
+  280  sudo apt install oracle-java8-set-default
+  281  for i in {1..288};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  282  for i in {1..20};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  283  jdk -version
+  284  jdk
+  285  sudo apt-get remove default-jre
+  286  sudo apt-get remove default-jdk
+  287  sudo apt-get remove openjdk-8-jdk-headless 
+  288  for i in {1..20};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  289  dpkg-query -W -f='${binary:Package}\n' | grep -E -e '^(ia32-)?(sun|oracle)-java' -e '^openjdk-' -e '^icedtea' -e '^(default|gcj)-j(re|dk)' -e '^gcj-(.*)-j(re|dk)' -e '^java-common' | xargs sudo apt-get -y remove
+  290  sudo bash -c 'ls -d /home/*/.java' | xargs sudo rm -rf
+  291  sudo rm -rf /usr/lib/jvm/*
+  292  for g in ControlPanel java java_vm javaws jcontrol jexec keytool mozilla-javaplugin.so orbd pack200 policytool rmid rmiregistry servertool tnameserv unpack200 appletviewer apt extcheck HtmlConverter idlj jar jarsigner javac javadoc javah javap jconsole jdb jhat jinfo jmap jps jrunscript jsadebugd jstack jstat jstatd native2ascii rmic schemagen serialver wsgen wsimport xjc xulrunner-1.9-javaplugin.so; do sudo update-alternatives --remove-all $g; done
+  293  sudo updatedb
+  294  sudo locate -b '\pack200'
+  295  sudo updatedb
+  296  sudo locate -b '\pack200'
+  297  dpkg -l | grep ^rc | awk '{print($2)}' | xargs sudo apt-get -y purge
+  298  sudo locate -b '\pack200'
+  299  sudo bash -c 'ls -d /home/*/.java' | xargs sudo rm -rf
+  300  cd ..
+  301  ls
+  302  cd ..
+  303  ls
+  304  cd bin
+  305  ls
+  306  cd ..
+  307  ls
+  308  sudo bash -c 'ls -d /home/*/.java' | xargs sudo rm -rf
+  309  cd home/
+  310  sudo bash -c 'ls -d /home/*/.java' | xargs sudo rm -rf
+  311  sudo apt remove java
+  312  for i in {1..20};do java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i))>log$((i));done
+  313  java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i model_tree_trimmed -o 1_true_tree >> log
+  314  java --version
+  315  java -V
+  316  Java
+  317  java -version
+  318  ping www.google.com
+  319  java -jar /home/farah/Desktop/Project/astral.5.5.12.jar -i model_tree_trimmed -o 1_true_tree >> log
+  320  git clone git@github.com:IshratFarah/Bioinformatics-Project.git
+  321  git clone git@github.com:IshratFarah/Bioinformatics-Project.git
+  322  java
+  323  java -V
+  324  history | grep java
+  325  echo -ne '\n' | sudo add-apt-repository ppa:webupd8team/java
+  326  sudo apt-get update -y
+  327  sudo apt-get install oracle-java8-installer -y
+  328  java
+  329  sudo apt-get purge openjdk-\* icedtea-\* icedtea6-\*
+  330  java
+  331  sudo apt-get purge java
+  332  sudo apt-get purge openjdk-\* 
+  333  java
+  334  java-V
+  335  java -V
+  336  java -version
+  337  sudo apt-get update 
+  338  sudo apt-get upgrade 
+  339  echo -ne '\n' | sudo add-apt-repository ppa:webupd8team/java
+  340  java
+  341  sudo gedit /etc/profile
+  342  cd /usr/lib/jvm/
+  343  ls
+  344  sudo nano /etc/environment
+  345  cd 
+  346  sudo update-alternatives --config java
+  347  java
+  348  sudo apt-get purge oracle-java8-installer
+  349  sudo add-apt-repository ppa:webupd8team/java
+  350  sudo apt-get update
+  351  sudo add-apt-repository ppa:webupd8team/java
+  352  sudo apt-get update
+  353  sudo apt-get install update
+  354  sudo apt-get upgrade 
+  355  sudo add-apt-repository ppa:webupd8team/java
+  356  sudo apt-get update
+  357  sudo update-alternatives --config java
+  358  sudo apt-get install oracle-java7-installer
+  359  sudo add-apt-repository ppa:webupd7team/java
+  360  sudo apt-get install oracle-java8-installer
+  361  cd 
+  362  ssh-keygen 
+  363  cat .ssh/git.pub 
+  364  cd Desktop/Project/
+  365  ls
+  366  git log
+  367  git status
+  368  git init
+  369  git clone git@github.com:IshratFarah/Bioinformatics-Project.git
+  370  git status
+  371  git branch -a
+  372  git push 
+  373  git push origin master 
+  374  git push master 
+  375  git checkout -b dev
+  376  ls
+  377  git branch -r
+  378  git branch -a
+  379  git pull
+  380  git remote set url origin git@github.com:IshratFarah/Bioinformatics-Project.git
+  381  git remote set-url origin git@github.com:IshratFarah/Bioinformatics-Project.git
+  382  git add .
+  383  git commit -m '1st push'
+  384  git push 
+  385  git push dev
+  386  git remote add git@github.com:IshratFarah/Bioinformatics-Project.git
+  387  git remote add -f dev git@github.com:IshratFarah/Bioinformatics-Project.git
+  388  ls
+  389  git push 
+  390  git push dev 
+  391  git push -u origin master
+  392  git checkout -b master 
+  393  git checkout master 
+  394  git push -u origin master
+  395  git add 11\ taxon\ final\ graph/
+  396  git commit -m '11 taxon added'
+  397  git status
+  398  cd ..
+  399  mkdir GitProject
+  400  cd GitProject/
+  401  git clone git@github.com:IshratFarah/Bioinformatics-Project.git
+  402  echo "hello " > out.txt
+  403  git add .
+  404  git init 
+  405  git add .
+  406  git commit -m 'test commit test'
+  407  git remote add origin git@github.com:IshratFarah/Bioinformatics-Project.git
+  408  git push -u origin master
+  409  cd ..
+  410  cd Project/
+  411  git remote add origin git@github.com:IshratFarah/Bioinformatics-Project.git
+  412  git push -u origin master
+  413  git pull origin HEAD
+  414  git push -u origin master
+  415  git branch -a
+  416  git checkout dev 
+  417  ls
+  418  git checkout master 
+  419  git fetch --all && git checkout dev 
+  420  git add 11\ taxon\ final\ graph/
+  421  git commit -m 'final graph added'
+  422  cd 11\ taxon\ final\ graph/
+  423  ls
+  424  git add Results\ analysis.docx 
+  425  git commit -m 'doc added'
+  426  cd ..
+  427  git push origin dev
+  428  git add 11/ 11\ taxon\ final\ graph/
+  429  git add 11\ taxon\ final\ graph/
+  430  git commit -m '11 taxon final part added'
+  431  git push origin dev
+  432  git status 
+  433  git checkout master 
+  434  git status 
+  435  pwd
+  436  rm log*
+  437  for FILE in `ls`; do mv $FILE `echo $FILE | sed -e 's:^0*::'`; done
+  438  java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral.5.5.12/Astral/astral.5.5.12.jar -i 001_true_tree -o Res1 2> log1
+  439  java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -i 1_true_tree -o Res1 2> log1
+  440  pwd
+  441  for FILE in `ls`; do mv $FILE `echo $FILE | sed -e 's:^0*::'`; done
+  442  clear
+  443  for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -i $((i))_true_tree -o Res$((i)) 2> log$((i));done
+  444  grep 'Final quartet score is:' log*
+  445  for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -i Astral_neighbour_$((i)) -o Res$((i)) 2> log$((i));done
+  446  grep 'Final quartet score is:' log*
+  447  for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -i Phylonet_neighbour_$((i)) -o Res$((i)) 2> log$((i));done
+  448  grep 'Final quartet score is:' log*
+  449  for i in {1..288};do cat Astral_neighbour_$((i));done 
+  450  git username
+  451  git --help
+  452  git add .
+  453  git commit -m 'quartet score of all neighbours generated' 
+  454  git status
+  455  git push origin 
+  456  grep "Final quartet score is:" log*>>temp;cut -d ' ' -f5 temp>avg_qs
+  457  cat avg_qs 
+  458  wc -l avg_qs 
+  459  cat avg_qs ]
+  460  grep "Final quartet score is:" log*>>temp;cut -d ' ' -f5 temp>avg_qs_astral_neighbour
+  461  cat avg_qs_astral_neighbour 
+  462  python setup.py install --home=/u/farah
+  463  sudo su
+  464  import spruce
+  465  perl /home/farah/Downloads/calculate_average_new.pl avg_qs_astral_neighbour 
+  466  cat avg_qs_astral_neighbour 
+  467  pwd
+  468  grep "Final quartet score is:" log*>>temp;cut -d ' ' -f5 temp>avg_qs_phylonet_neighbour
+  469  perl /home/farah/Downloads/calculate_average_new.pl avg_qs_phylonet_neighbour 
+  470  cat avg_qs_phylonet_neighbour 
+  471  grep "Final quartet score is:" log*>>temp;cut -d ' ' -f5 temp>avg_qs_true_tree_neighbour
+  472  perl /home/farah/Downloads/calculate_average_new.pl avg_qs_true_tree_neighbour 
+  473  cat avg_qs_true_tree_neighbour 
+  474  pwd
+  475  rm log*
+  476  rm Res*
+  477  pwd
+  478  pwd
+  479  sudo su
+  480  import newick_modified
+  481  perl /home/farah/Desktop/Project/strip_edge_support.pl Res*
+  482  for i in {1..20};do perl /home/farah/Desktop/Project/strip_edge_support.pl -i Res$((i)) -o Res$((i))_stripped;done
+  483  rm *_stripped
+  484  for i in {1..288};do perl /home/farah/Desktop/Project/strip_edge_support.pl -i Res$((i)) -o Res$((i))_stripped;done
+  485  clear
+  486  for i in {1..288};do /home/farah/Downloads/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res$((i))_stripped>>Res$((i))_FN;done
+  487  pwd
+  488  chmod Res*_striiped r-x
+  489  chmod Res*_stripped r-x
+  490  chmod *stripped r-x
+  491  sudo su
+  492  python setup.py install
+  493  sudo su
+  494  import spruce
+  495  ls
+  496  cd ..
+  497  ls
+  498  cd farah/
+  499  ls
+  500  cd ..
+  501  ls
+  502  cd bin
+  503  ls
+  504  python setup.py install --home=/farah
+  505  sudo su
+  506  python
+  507  import spruce
+  508  python
+  509  sudo su
+  510  python
+  511  chmod Res1_stripped r-x
+  512  chmod Res1_stripped rx
+  513  /home/farah/Downloads/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped>>Res1_FN
+  514  /home/farah/Downloads/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped 
+  515  clear
+  516  /home/farah/Downloads/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped 
+  517  python
+  518  /home/farah/Downloads/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped 
+  519  sudo su
+  520  python
+  521  /home/farah/Downloads/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped 
+  522  sudo su
+  523  import spruce
+  524  python
+  525  sudo su
+  526  python
+  527  pip --version
+  528  python
+  529  sudo su
+  530  python
+  531  sudo su
+  532  python
+  533  sudo su
+  534  python
+  535  /home/farah/Downloads/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped 
+  536  /home/farah/Desktop/spruce-1.0/spruce/scripts/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped 
+  537  pwd
+  538  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped 
+  539  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR neighbours/true_tree_neighbour\ (copy)/Res1_stripped 
+  540  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR neighbours/true_tree_neighbour_copy/Res1_stripped 
+  541  sudo su
+  542  pwd
+  543  ls
+  544  sudo su
+  545  python setup.py install --home=/farah
+  546  sudo su
+  547  python
+  548  cd /usr/local/lib/python2.7/dist-packages/spruce
+  549  ls
+  550  cd ..
+  551  ls
+  552  cd python2.7/
+  553  ls
+  554  cd dist-packages/
+  555  ls
+  556  cd ..
+  557  ls
+  558  cd site-packages/
+  559  ls
+  560  clear
+  561  ls
+  562  cd ..
+  563  ls
+  564  cd dist-packages/
+  565  ls
+  566  cd ..
+  567  cd python3.5/
+  568  ls
+  569  cd dist-packages/
+  570  ls
+  571  pwd
+  572  cd
+  573  ls
+  574  cd
+  575  ls
+  576  cd ..
+  577  ls
+  578  cd farah/
+  579  ls
+  580  cd
+  581  ls
+  582  cd ..
+  583  ls
+  584  cd usr
+  585  ls
+  586  cd lib/
+  587  ls
+  588  cd ..
+  589  clear
+  590  ls
+  591  cd bin/
+  592  ls
+  593  cd ..
+  594  ls
+  595  cd local
+  596  ls
+  597  cd bin
+  598  ls
+  599  cd ..
+  600  cd lib/
+  601  ls
+  602  cd python2.7/
+  603  ls
+  604  cd dist-packages/
+  605  ls
+  606  cd lib
+  607  ls
+  608  cd ..
+  609  ls
+  610  cd ..
+  611  ls
+  612  cd dist-packages/
+  613  ls
+  614  cd lib/
+  615  ls
+  616  cd python/
+  617  ls
+  618  cd ..
+  619  ls
+  620  cd ..
+  621  ls
+  622  cd ..
+  623  ls
+  624  cd python2.7/
+  625  ls
+  626  cd dist-packages/
+  627  ls
+  628  cd lib/
+  629  ls
+  630  cd python/
+  631  ls
+  632  cd ..
+  633  ls
+  634  mv --help
+  635  mv -r /usr/local/lib/python2.7/dist-packages/lib /usr/local/lib/python2.7/dist-packages
+  636  mv -R /usr/local/lib/python2.7/dist-packages/lib /usr/local/lib/python2.7/dist-packages
+  637  mv -T /usr/local/lib/python2.7/dist-packages/lib /usr/local/lib/python2.7/dist-packages
+  638  ls
+  639  cd ..
+  640  ls
+  641  cd lib
+  642  ls
+  643  cd python/
+  644  ls
+  645  mv -T /usr/local/lib/python2.7/dist-packages/lib/python /usr/local/lib/python2.7/dist-packages
+  646  cd ..
+  647  ls
+  648  mv -T /usr/local/lib/python2.7/dist-packages/lib/python /usr/local/lib/python2.7/dist-packages
+  649  clear
+  650  python setup.py install --home=/usr/local/lib/python2.7/dist-packages
+  651  sudo su
+  652  pwd
+  653  rm log*
+  654  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR neighbours/true_tree_neighbour_copy/Res1_stripped 
+  655  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR_neighbours/true_tree_neighbour_copy/Res1_stripped 
+  656  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR_neighbours/true_tree_neighbour_copy/Res1_stripped 2>log1
+  657  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR_neighbours/true_tree_neighbour_copy/Res1_stripped 2> log1
+  658  cat log1 
+  659  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR_neighbours/true_tree_neighbour_copy/Res1_stripped > log1
+  660  cat log1 
+  661  pwd
+  662  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res1_stripped 
+  663  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res5_stripped 
+  664  for i in {1..20};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res$((i))_stripped;done 
+  665  for i in {1..20};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Res$((i))_stripped;done >FN
+  666  perl /home/farah/Downloads/calculate_missingbranchrate_python.pl FN 
+  667  cat FN
+  668  pwd
+  669  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR neighbours/true_tree_neighbour_copy/Res1_stripped 
+  670  /home/farah/Desktop/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR neighbours/true_tree_neighbour_copy/Res1_stripped 
+  671  clear
+  672  /home/farah/Desktop/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR neighbours/true_tree_neighbour_copy/Res1_stripped 
+  673  cd
+  674  cd /usr/local/lib/python2.7/dist-packages/spruce/
+  675  ls
+  676  cp /home/farah/Desktop/newick_modified-1.3.1/newick_modified /usr/local/lib/python2.7/dist-packages/spruce$
+  677  ls
+  678  cp -r /home/farah/Desktop/newick_modified-1.3.1/newick_modified /usr/local/lib/python2.7/dist-packages/spruce$
+  679  sudo su
+  680  rm *_FN
+  681  /home/farah/Desktop/getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR_neighbours/true_tree_neighbour_copy/Res1_stripped 
+  682  getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR_neighbours/true_tree_neighbour_copy/Res1_stripped 
+  683  for i in {1..5};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR_neighbours/true_tree_neighbour_copy/Res$((i))_stripped>>FN;done 
+  684  cat FN 
+  685  rm FN 
+  686  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/SPR_neighbours/true_tree_neighbour_copy/Res$((i))_stripped>>FN;done 
+  687  wc -l FN
+  688  perl /home/farah/Downloads/calculate_missingbranchrate_python.pl FN
+  689  pwd
+  690  history>history3
+  691  java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -q 1_true_tree -i /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep8_25genes -o temp1 2> log1
+  692  cat log1 
+  693  for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -q $((i))_true_tree -i /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep8_25genes -o temp$((i)) 2> log$((i))
+  694  for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -q $((i))_true_tree -i /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep8_25genes -o temp$((i)) 2> log$((i));done
+  695  grep 'Final quartet score is:' log*>>QS
+  696  cat QS
+  697  sc -l QS
+  698  wc -l QS
+  699  cut -d ' ' -f5 QS>avg_QS
+  700  cat avg_QS 
+  701  perl /home/farah/Downloads/calculate_average_new.pl avg_QS
+  702  cat avg_QS 
+  703  rm log*
+  704  rm Res*
+  705  pwd
+  706  for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -q $((i))_true_tree -i /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep8_25genes -o temp$((i)) 2> log$((i));done
+  707  grep 'Final quartet score is:' log*>>QS
+  708  cut -d ' ' -f5 QS>avg_QS
+  709  perl /home/farah/Downloads/calculate_average_new.pl avg_QS
+  710  perl /home/farah/Downloads/calculate_missingbranchrate_python.pl FN
+  711  git add .
+  712  git commit -m 'quartet score and FN rate calculated for true tree neighbours' 
+  713  git status
+  714  git push origin
+  715  rm log*
+  716  rm Res*
+  717  rm log*
+  718  rm temp*
+  719  for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -q Astral_neighbour_$((i)) -i /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep8_25genes -o temp$((i)) 2> log$((i));done
+  720  grep 'Final quartet score is:' log*>>QS
+  721  cut -d ' ' -f5 QS>avg_QS
+  722  perl /home/farah/Downloads/calculate_average_new.pl avg_QS
+  723  clear
+  724  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Astral_neighbour_$((i))>>FN;done 
+  725  perl /home/farah/Downloads/calculate_missingbranchrate_python.pl FN
+  726  rm log*
+  727  rm Res*
+  728  for i in {1..288};do java -jar /home/farah/Desktop/Project/ASTRAL-master/Astral/astral.5.5.12.jar -q Phylonet_neighbour_$((i)) -i /home/farah/Desktop/Project/11-taxon_Bioinformatics/estimated_genetrees_strongILS/estimated_25genes_strongILS/Rep8_25genes -o temp$((i)) 2> log$((i));done
+  729  grep 'Final quartet score is:' log*>>QS
+  730  cut -d ' ' -f5 QS>avg_QS
+  731  perl /home/farah/Downloads/calculate_average_new.pl avg_QS
+  732  wc -l avg_QS 
+  733  wc -l QS
+  734  wc -l FN
+  735  perl /home/farah/Downloads/calculate_missingbranchrate_python.pl FN
+  736  git add .
+  737  git commit -m 'quartet score and FN rate calculated for Astral and Phylonet neighbours' 
+  738  git status
+  739  git push origin
+  740  git status
+  741  git log
+  742  grep 'Final quartet score is:' log*
+  743  for file in log{1..164}.gz; do     process "$file"
+  744  for file in log{1..288};do process "$file";done
+  745  for file in log{1..288};do sort "$file";done
+  746  for file in ls;do sort "$file";done
+  747  ls -1v log*
+  748  cat ls | -1v log*
+  749  cat ls -1v log*
+  750  echo ls -1v log*
+  751  clear
+  752  grep 'Final quartet score is:' log*|sort
+  753  grep 'Final quartet score is:' log*|ls -v
+  754  grep 'Final quartet score is:' log*|ls -v log*
+  755  clear
+  756  grep 'Final quartet score is:' log*|sort
+  757  grep 'Final quartet score is:' log*>log.ods
+  758  mv log* log_*
+  759  rename -n 'log*' log_*
+  760  rename -n log* log_*
+  761  rename -n 'log*' 'log_*'
+  762  grep 'Final quartet score is:' log*>log.ods
+  763  grep 'Final quartet score is:' log*>log.ods
+  764  ls -v log*
+  765  ls -v log*|more
+  766  ls -v log*|cat 
+  767  cat log*|ls -v
+  768  cat log*|ls -v log*
+  769  grep 'Final quartet score is:' log*|-v
+  770  grep 'Final quartet score is:' log*|ls -v
+  771  mkdir log
+  772  mv log* log
+  773  rename -n log* log_*
+  774  rename --help
+  775  rename -E 'log*' 'log_*'
+  776  rename -E 'log*' log_*
+  777  ls -v |
+  778  grep 'Final quartet score is:' log*|ls -v
+  779  grep 'Final quartet score is:' log*|sort
+  780  ls -v|grep 'Final quartet score is:' log*
+  781  ls -v
+  782  ls -v;grep 'Final quartet score is:' log*
+  783  ls -v;grep 'Final quartet score is:' log*;sort
+  784  grep 'Final quartet score is:' log*;ls -v
+  785  grep 'Final quartet score is:' log*|ls -v
+  786  grep 'Final quartet score is:' log*>log
+  787  grep 'Final quartet score is:' log*>log.ods
+  788  sort -nk1 log.ods
+  789  clear
+  790  sort -nk1 Untitled\ Document 
+  791  mv log288 log:288
+  792  mv log{1..287} log:{1..287}
+  793  for i in {1..287};do mv log$((i)) log:$((i));done
+  794  grep 'Final quartet score is:' log*
+  795  grep 'Final quartet score is:' log*>log.ods
+  796  cat *FN*
+  797  ls *FN*
+  798  clear
+  799  history>history4
+  800  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e tree_tree_neighbour_$((i));done 
+  801  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e true_tree_neighbour_$((i));done 
+  802  clear
+  803  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e $((i))_true_tree;done 
+  804  for i in {1..10};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e $((i))_true_tree;done 
+  805  for i in {1..10};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e $((i))_true_tree;done 
+  806  for i in {1..10};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e $((i))_true_tree>FN$((i));done 
+  807  cat FN*
+  808  rm FN*
+  809  clear
+  810  for i in {1..5};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e $((i))_true_tree>FN$((i));done 
+  811  ls FN*
+  812  cat FN*
+  813  less FN*
+  814  more FN*
+  815  rm FN*
+  816  clear
+  817  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e $((i))_true_tree>FN$((i));done 
+  818  rm FN*
+  819  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e $((i))_true_tree>FN:$((i));done 
+  820  cat FN*
+  821  grep *>FN
+  822  grep '*'  FN
+  823  grep '*' FN
+  824  grep * FN
+  825  grep * FN*
+  826  clear
+  827  grep '(' FN*
+  828  grep '(' FN*>FN*ods
+  829  grep '(' FN*>FN.ods
+  830  sudoapt-get update
+  831  sudo apt-get update
+  832  sudo apt-get install r-base
+  833  R
+  834  cp log.csv /home/farah
+  835  cd 
+  836  ls
+  837  cd
+  838  ls
+  839  cd ..
+  840  ls
+  841  cd farah/
+  842  ls
+  843  for i in {1..288};do mv log$((i)) log:$((i));done
+  844  grep 'Final quartet score is:' log*>QS
+  845  grep 'Final quartet score is:' log*>QS.ods
+  846  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Astral_neighbour_$((i))>FN:$((i));done 
+  847  grep '*'  FN
+  848  grep '*' FN
+  849  grep '(' FN*>FN.ods
+  850  for i in {1..288};do mv log$((i)) log:$((i));done
+  851  grep 'Final quartet score is:' log*>QS.ods
+  852  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e Phylonet_neighbour_$((i))>FN:$((i));done 
+  853  grep '(' FN*>FN.ods
+  854  for i in {1..288};do mv log$((i)) log:$((i));done
+  855  grep 'Final quartet score is:' log*>True_tree_QS.ods
+  856  for i in {1..288};do getFpFn.py -t /home/farah/Desktop/Project/11-taxon_Bioinformatics/model_tree_trimmed -e $((i))_true_tree>FN:$((i));done 
+  857  grep '(' FN*>FN.ods
+  858  grep '(' FN*
+  859  grep '(' FN*>FN.ods
+  860  cp QS_all_neighbour.csv /home/farah
+  861  git add .
+  862  git commit -m 'QS_all_neighbour Graph generated in R'
+  863  git status
+  864  git push origin
+  865  git help config
+  866  git-config
+  867  git help config
+  868  git push origin branch1
+  869  git checkout -b branch1
+  870  git push origin branch1
+  871  hestory>history4
+  872  history>history4
